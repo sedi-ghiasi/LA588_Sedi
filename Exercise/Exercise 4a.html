@@ -1,70 +1,109 @@
 <html>
 
-<head>
+  <head>
 
-     <title>Highcharts Bar Chart</title>
+    <title>Highcharts Bar Chart</title>
 
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
 
     <script src="https://code.highcharts.com/highcharts.src.js"></script>
 
 
-    <script type="text/javascript">
-</head>
-<body>
-    $(function() {
+  
+      < /head> <
+      body >
+        <script type="text/javascript">
+        $(function() {
 
-            Highcharts.chart('container', {
+          Highcharts.chart('container', {
 
-                chart: {
+            chart: {
 
-                    type: 'bar'
+              type: 'bar'
 
-                },
+            },
 
-                title: {
+            title: {
 
-                    text: 'Generalized results'
+              text: 'Generalized results'
 
-                },
+            },
 
-                subtitle: {
+            subtitle: {
 
-                    text: 'Des Moines,IA'
+              text: 'Des Moines,IA'
 
-                },
+            },
 
-                xAxis: {
+            xAxis: {
 
-                    categories: [
+              categories: [
 
-                        'No tree',
-                        'cover',
-                        '0-1m',
-                        '1-2m',
-                        '2-3m',
-			'3-4m',
-			'4-5m',
-			'5-6m',
-			'6-7m',
-			'7-8m',
-			'8-9m',
-			'9-10m']},
+                'No tree',
+                'cover',
+                '0-1m',
+                '1-2m',
+                '2-3m',
+                '3-4m',
+                '4-5m',
+                '5-6m',
+                '6-7m',
+                '7-8m',
+                '8-9m',
+                '9-10m'
+              ]
+            },
 
-                yAxis: {
+            yAxis: {
 
-                    title: {
+              title: {
 
-                        text: 'Number of building' }
+                text: 'Number of building'
+              }
 
-                	},
+            },
 
-                
 
-                series: [{name: 'No tree',data: [27]}, {name: 'cover',data: [301]}, {name: '0-1m', data: [25]}, { name: '1-2m',data: [32]}, {name: '2-3m',data: [20]}, {name: '3-4m',data: [21]}, {name: '4-5m',data: [9]}, {
-                   name: '5-6m', data: [14,7] }, { name: '6-7m',data: [14]}, {name: '7-8m',data: [8]}, {name: '8-9m',data: [7]}, {name: '9-10m',data: [4,2]}]
 
-            });
+            series: [{
+              name: 'No tree',
+              data: [27]
+            }, {
+              name: 'cover',
+              data: [301]
+            }, {
+              name: '0-1m',
+              data: [25]
+            }, {
+              name: '1-2m',
+              data: [32]
+            }, {
+              name: '2-3m',
+              data: [20]
+            }, {
+              name: '3-4m',
+              data: [21]
+            }, {
+              name: '4-5m',
+              data: [9]
+            }, {
+              name: '5-6m',
+              data: [14, 7]
+            }, {
+              name: '6-7m',
+              data: [14]
+            }, {
+              name: '7-8m',
+              data: [8]
+            }, {
+              name: '8-9m',
+              data: [7]
+            }, {
+              name: '9-10m',
+              data: [4]
+            }]
+
+          });
 
         });
 
@@ -74,6 +113,6 @@
 
     <div id="container" style="width: 100%; height: 400px;"> </div>
 
-</body>
+    </body>
 
 </html>

@@ -7,5 +7,7 @@ For this assignment, I had the opportunity to expand my skills in working with T
 
 
 
-<a href="Rplotone.jpeg">View my picture</a>
-<a href="Rplot2.jpeg">View my picture</a>
+<a href="Rplotone.jpeg">Plot one</a>
+
+
+<a href="Rplot2.jpeg">Plot two </a>

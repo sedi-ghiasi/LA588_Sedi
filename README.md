@@ -8,4 +8,4 @@ This is my first assignment
 ## __Assignments:__
 - [Assignment1](https://sedi-ghiasi.github.io/LA588_Sedi/assignment1/assign3a_osm.html)
 
-- [Assignment2]("C:\Users\ghiasi\Documents\GitHub\LA588_Sedi\Assignment 2\assign2.md")
+- [Assignment2](https://github.com/sedi-ghiasi/LA588_Sedi/blob/main/Assignment%202/assign2.md)

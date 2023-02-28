@@ -7,5 +7,5 @@ For this assignment, I had the opportunity to expand my skills in working with T
 
 
 
-<a href="Rplotone.jpg">View my picture</a>
+<a href="C:\Users\ghiasi\Documents\GitHub\LA588_Sedi\Assignment 2\Rplot2.jpeg">View my picture</a>
 <a href="Rplot2.jpg">View my picture</a>

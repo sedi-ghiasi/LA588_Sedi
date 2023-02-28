@@ -7,5 +7,4 @@ This is my first assignment
 
 ## __Assignments:__
 - [Assignment1](https://sedi-ghiasi.github.io/LA588_Sedi/assignment1/assign3a_osm.html)
-
-- [Assignment2](https://github.com/sedi-ghiasi/LA588_Sedi/tree/main/Assignment%202)
+- <[Assignment2](https://sedi-ghiasi.github.io/LA588_Sedi/assignment2)>

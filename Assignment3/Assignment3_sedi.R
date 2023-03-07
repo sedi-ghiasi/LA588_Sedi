@@ -22,7 +22,7 @@ library(ggplot2)
 
 #census_api_key("", install = TRUE)
 
-
+# ----plot 2------------------------------
 
 # Loading data from the ACS 2019 5-year estimates
 med_income <- get_acs(geography = "state", 
@@ -34,7 +34,7 @@ med_income <- get_acs(geography = "state",
 med_income_tibble <- as_tibble(med_income) %>%
   mutate(median_income = as.numeric(estimate))
 print(med_income)
-# Converting it to a data frame, renameing columns
+# Converting it to a data frame, renaming columns
 med_income_df <- as.data.frame(med_income_tibble) %>%
   rename(state = NAME) %>%
   mutate(state = as.factor(state))
@@ -49,12 +49,11 @@ ggplot(med_income_df, aes(x = state, fill = median_income)) +
         plot.title = element_text(size = 20))
 
 
-##part2 
+# ----plot 2------------------------------
 
-
-# Load diamonds data
+# Loading diamonds data
 data("diamonds")
-# Creating box plot of diamond prices by cut
+# Creatinging box plot of diamond prices by cut
 ggplot(diamonds, aes(x = cut, y = price)) +
   geom_boxplot() +
   labs(x = "Cut", y = "Price", title = "Diamond Prices by Cut") +
@@ -62,12 +61,12 @@ ggplot(diamonds, aes(x = cut, y = price)) +
   theme(plot.title = element_text(size = 16)) # Set title font size to 16
 
 
-##part3 
+# ----plot 3------------------------------
 
 # Reading Excel file
 df<- read.csv("tree_2.csv")
 
-# Count number of each value in column quality
+# Counting number of each value in column "quality"
 A_count <- df %>% 
   filter(quality == "A") %>% 
   nrow()
@@ -96,14 +95,15 @@ pie(c(A_count, B_count, C_count, D_count, nrow(df)-(A_count+B_count+C_count+D_co
     labels = c("A", "B", "C","Other"), 
     main = "Distribution of TREES")
 
-#part5
+# ----plot 4------------------------------
+#selected  region
+plot_usmap(include = c("IA", "TX", "MA", "NH", "VT")) +
+  labs(title = "Selected Region") +
+  theme(
+    panel.background = element_rect(color = "blue"),
+    plot.title = element_text(size = 30, hjust = 0.5, vjust = 0.5),
+    plot.title.position = "plot"
+  )
 
-plot_usmap(include = c("CT", "ME", "MA", "NH", "VT")) +
-  labs(title = "New England Region") +
-  theme(panel.background = element_rect(color = "blue"))
-plot_usmap(data = countypov, values = "pct_pov_2014", include = c("CT", "ME", "MA", "NH", "VT"), color = "blue") + 
-  scale_fill_continuous(low = "white", high = "blue", name = "Poverty Percentage Estimates", label = scales::comma) + 
-  labs(title = "New England Region", subtitle = "Poverty Percentage Estimates for New England Counties in 2014") +
-  theme(legend.position = "right")
 
 

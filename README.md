@@ -5,7 +5,7 @@ Sedigheh Ghiasi is a Ph.D. student in Geology at Iowa State University in the Ge
 Before pursuing her Ph.D., Sedigheh obtained a Master of Science degree in Architecture. During her master's program, she worked on developing a GIS-based interactive map to identify feasible locations for P.V. panel installation. Her work in this area helped her develop a strong foundation in sustainability, particularly in urban environments.
 Currently, Sedigheh is exploring other aspects of sustainability in urban environments, explicitly considering the evapotranspiration effect of urban vegetation on urban energy use. Sedigheh uses satellite-based techniques to provide the required inputs to conduct her research. With her expertise in urban environments, she is also predicting the potential impact of urban land use change on urban energy use.
 
-This repo is for class LA588. (/profSeeger](https://github.com/profSeeger/LA558_2023)
+This repository was created for my LA588 class, which was taught by  [profSeeger](https://github.com/profSeeger/LA558_2023). Throughout the course, I had the opportunity to learn a variety of interesting skills under her guidance.
 
 The [index.md](https://github.com/sedi-ghiasi/LA588_Sedi/blob/main/index.md) file contains for GitHub web page  [https://github.com/sedi-ghiasishowcasing](https://github.com/sedi-ghiasi) my assignments.
 

@@ -1,0 +1,58 @@
+[
+  {
+    "ParentBuildingId": "6fec478a-edd3-4149-80d4-f1e3356dfd99",
+    "PerimeterAreaWeight": 18.328043140335843,
+    "CoreAreaWeight": 2.9467307972135561,
+    "PerimeterArea": 80.270616058690933,
+    "CoreArea": 12.905681999999665,
+    "Orientation": "East",
+    "ClusterId": "Group0",
+    "Roof2FloorRatio": 1.0000000000000009,
+    "Ground2FloorRatio": 1.0000000000000091,
+    "Floor2Fac": 0.44969514274540834,
+    "Core2Perimeter": 0.16077716396948422,
+    "ShoeboxPath": "C:\\umi\\temp\\energy\\text_B\\text_B\\eplus\\Group0\\SAMPLE1\\40\\SAMPLE1.idf"
+  },
+  {
+    "ParentBuildingId": "6fec478a-edd3-4149-80d4-f1e3356dfd99",
+    "PerimeterAreaWeight": 21.807264889009765,
+    "CoreAreaWeight": 3.5061102027862989,
+    "PerimeterArea": 80.270616058690933,
+    "CoreArea": 12.905681999999665,
+    "Orientation": "North",
+    "ClusterId": "Group0",
+    "Roof2FloorRatio": 1.0000000000000009,
+    "Ground2FloorRatio": 1.0000000000000091,
+    "Floor2Fac": 0.44969514274540834,
+    "Core2Perimeter": 0.16077716396948422,
+    "ShoeboxPath": "C:\\umi\\temp\\energy\\text_B\\text_B\\eplus\\Group0\\SAMPLE0\\40\\SAMPLE0.idf"
+  },
+  {
+    "ParentBuildingId": "6fec478a-edd3-4149-80d4-f1e3356dfd99",
+    "PerimeterAreaWeight": 18.328043140335843,
+    "CoreAreaWeight": 2.9467307972135561,
+    "PerimeterArea": 80.270616058690933,
+    "CoreArea": 12.905681999999665,
+    "Orientation": "West",
+    "ClusterId": "Group0",
+    "Roof2FloorRatio": 1.0000000000000009,
+    "Ground2FloorRatio": 1.0000000000000091,
+    "Floor2Fac": 0.44969514274540834,
+    "Core2Perimeter": 0.16077716396948422,
+    "ShoeboxPath": "C:\\umi\\temp\\energy\\text_B\\text_B\\eplus\\Group0\\SAMPLE3\\40\\SAMPLE3.idf"
+  },
+  {
+    "ParentBuildingId": "6fec478a-edd3-4149-80d4-f1e3356dfd99",
+    "PerimeterAreaWeight": 21.807264889009765,
+    "CoreAreaWeight": 3.5061102027862989,
+    "PerimeterArea": 80.270616058690933,
+    "CoreArea": 12.905681999999665,
+    "Orientation": "South",
+    "ClusterId": "Group0",
+    "Roof2FloorRatio": 1.0000000000000009,
+    "Ground2FloorRatio": 1.0000000000000091,
+    "Floor2Fac": 0.44969514274540834,
+    "Core2Perimeter": 0.16077716396948422,
+    "ShoeboxPath": "C:\\umi\\temp\\energy\\text_B\\text_B\\eplus\\Group0\\SAMPLE2\\40\\SAMPLE2.idf"
+  }
+]

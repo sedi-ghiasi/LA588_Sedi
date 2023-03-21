@@ -86,7 +86,8 @@ ggplot(data_grouped, aes(x = height, y = count)) +
 
 # ----Dataset three------------------------------
 #After spending some time learning about this package, I was able to apply it to visualize the data for my research project as dataset three ####
-json_data <- fromJSON("shoebox-weights.json")
+library(readr)
+json_data <- fromJSON("shoebox-weights_c.json")
 json_tibble <- as_tibble(json_data)
 json_tibble <- as_tibble(json_data)
 write_excel_csv(json_tibble, "output_file.csv")
@@ -94,4 +95,5 @@ df <- read.csv("output_file.csv")
 df_grouped <- df %>%
   group_by(ParentBuildingId)%>%
   summarize (count = n())
-print(df_grouped) write_csv(df_grouped, "output2_file.csv")
+print(df_grouped) 
+write_csv(df_grouped, "output3_file.csv")

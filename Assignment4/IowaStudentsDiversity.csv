@@ -1,0 +1,1001 @@
+id,last_name,gender,university name,country,latitude,longitude,age
+1,Delion,F,Shinshu University,Catalan,42.484,-94.206,28
+2,Begin,F,Birzeit University,French,42.834,-96.565,35
+3,Cartmill,F,Bethune-Cookman College,Tamil,41.3,-91.102,24
+4,Marquese,M,Western Connecticut State University,Pashto,43.183,-95.979,28
+5,Filipson,F,Wingate University,Macedonian,43.216,-93.195,18
+6,Gotts,M,Georgia College & State University,Swati,40.631,-96.226,27
+7,Matthiae,M,University College of Nabi Akram,Hiri Motu,41.577,-93.863,23
+8,Burdus,F,LICCSAL Business College,Kurdish,41.992,-96.675,22
+9,Bussetti,F,"St. Francis College, Fort Wayne",Polish,43.836,-90.459,28
+10,Drain,M,Westsächsische Hochschule Zwickau (FH),Croatian,41.173,-93.309,26
+11,Pflieger,F,University of Aberdeen,Greek,41.027,-95.614,29
+12,MacCorkell,F,NTI University,Moldovan,42.001,-96.265,19
+13,Fairleigh,F,"Courtauld Institute of Art, University of London",Hungarian,40.339,-94.386,21
+14,Hasley,F,University of the South Pacific School of Agriculture,Papiamento,43.146,-93.675,33
+15,Gowry,M,Wellspring University,Chinese,43.774,-92.203,25
+16,Moorton,F,Hochschule Bremerhaven,Tamil,42.936,-92.31,26
+17,Goodwins,M,University of Venda,Irish Gaelic,43.306,-93.9,31
+18,Chastagnier,F,Volga State Academy of Water Transport,Dutch,40.202,-95.258,22
+19,Waitland,M,Nigerian Turkish Nile University,Swati,43.411,-91.035,24
+20,McMeekan,M,Sterlitamak State Pedagogical Institute,Korean,40.291,-92.961,29
+21,Hampe,M,Turin Polytechnic University In Tashkent,English,42.423,-91.094,33
+22,Philbrook,F,Montanuniversität Leoben,Hindi,41.885,-92.816,30
+23,Soal,M,Zhejiang Forestry University,Czech,41.927,-90.918,30
+24,Pannaman,M,Koshien University,Dzongkha,42.042,-92.54,19
+25,Housiaux,M,Uttarakhand Open University ,Mongolian,43.358,-91.545,35
+26,Burdis,F,Universidad Panamericana de San Salvador,Hiri Motu,40.988,-95.015,35
+27,Goldstone,M,Adventist University of Central Africa,Swahili,42.266,-94.772,25
+28,Griffin,M,Aleksander Gieysztor School of Humanities in Pultusk,Macedonian,42.275,-96.166,35
+29,Dormand,M,International School of Business Management,Sotho,41.307,-96.673,35
+30,Fosken,M,Sylhet International University,Tok Pisin,43.766,-90.215,20
+31,Pfeffel,M,Wakayama Medical College,Polish,41.206,-96.275,22
+32,Gringley,M,Notre Dame University,Catalan,40.975,-96.11,30
+33,Cattellion,M,University of Central Punjab,Hiri Motu,40.857,-92.86,22
+34,Grunbaum,M,ITT Technical Institute Maitland,Hebrew,42.951,-90.377,35
+35,Morl,M,Instituto Universitario de La Paz,Amharic,43.853,-91.12,24
+36,Hutchin,M,Pyramid Education Center,Afrikaans,42.911,-90.049,28
+37,O'Dee,M,Red Sea University,Kashmiri,43.304,-91.272,34
+38,Connolly,F,Hiroshima Shudo University,Ndebele,43.338,-95.8,19
+39,Crookshank,F,Universidade de Tras-os-Montes e Alto Douro,Punjabi,41.059,-94.903,34
+40,Bounds,M,Anhui University of Traditional Chinese Medicine,Spanish,43.836,-90.231,33
+41,New,F,University of Illinois at Urbana-Champaign,Burmese,43.654,-95.408,19
+42,Ride,M,University of Science and Technology,Dari,43.575,-92.148,28
+43,Yalden,M,University of Calicut,English,40.681,-95.161,27
+44,Marsden,M,"Teachers College, Columbia University",Lithuanian,40.546,-94.284,26
+45,Ghilks,F,Lenoir-Rhyne College,Indonesian,40.526,-95.49,33
+46,Krol,M,Japanese Red Cross College of Nursing,Khmer,40.922,-96.323,31
+47,Treacy,F,International Centre for Isclamic Science,Bulgarian,42.514,-93.702,31
+48,Ortet,F,Universidad Autónoma de Santo Domingo,Moldovan,42.473,-94.862,26
+49,Blackford,F,Universidade de Itaúna,Filipino,40.331,-96.879,30
+50,Prin,F,Ukrainian Academy of Banking,Sotho,43.609,-93.291,27
+51,Joynes,F,Volgograd State Pedagogical University,Icelandic,43.396,-93.044,22
+52,Matuskiewicz,M,Technological University (Pakokku),Hebrew,41.905,-96.218,23
+53,Nolte,M,Tomsk State Pedagogical University,Danish,41.649,-95.344,20
+54,Giovannazzi,M,Carlow Institute of Technology,Aymara,43.84,-96.198,31
+55,Magowan,M,Fisk University,Spanish,43.44,-94.294,20
+56,Meineken,F,Florida State University,Indonesian,43.121,-92.415,33
+57,Gowing,M,University Institute of Architecture Venice,Portuguese,41.099,-95.01,19
+58,Bearns,F,St. Bonaventure University,Northern Sotho,40.331,-90.798,30
+59,Trobridge,M,Kobe Gakuin University,Luxembourgish,43.216,-91.911,19
+60,Stockey,M,National Aviation Univesity,Azeri,40.195,-96.636,29
+61,Simonaitis,F,Western State University College of Law - Orange County,Tsonga,43.714,-94.874,33
+62,Nelthorpe,M,Kyushu Institute of Design,Malagasy,41.852,-95.824,25
+63,Mackriell,M,Miyazaki Municipal University,Nepali,43.164,-93.759,25
+64,Lowfill,M,Wilmington College,Danish,41.048,-92.38,25
+65,Blesli,M,Delta International University,Mongolian,40.084,-90.893,27
+66,Hutchins,F,University of Moncton,Korean,40.644,-94.024,27
+67,Ulrik,M,"Fachhochschule Ludwigshafen, Hochschule für Wirtschaft",Norwegian,41.988,-91.443,34
+68,Vaines,F,El Colegio de México,Zulu,43.734,-90.785,34
+69,Swateridge,F,Solapur University,Dari,41.274,-93.019,29
+70,Grevatt,F,Daemen College,Hiri Motu,40.22,-91.508,29
+71,Foltin,M,Foreign Trade University,Spanish,42.987,-91.437,28
+72,Skypp,F,Coppin State College,Northern Sotho,40.328,-95.86,27
+73,Cuthill,F,University of Gdansk,Amharic,43.508,-92.895,26
+74,Heckney,M,Immanuel Kant State University of Russia,Belarusian,41.046,-90.905,21
+75,Hammerton,M,Ukrainian Academy of Banking,Croatian,42.694,-96.1,31
+76,Rodolico,M,Tokyo University of Agriculture and Technology,Fijian,41.896,-96.725,30
+77,Favey,F,Universidade Lusiada,Icelandic,41.829,-94.808,32
+78,Waszczykowski,F,University of North Bengal,Māori,41.77,-93.103,32
+79,Assaf,M,Showa University,Northern Sotho,41.632,-94.887,19
+80,Hanlin,M,Suwon University,Hiri Motu,42.368,-94.471,26
+81,Baselio,M,Universidad del Valle de Puebla,Bosnian,41.194,-92.105,28
+82,Fridlington,F,Minia University,Northern Sotho,40.654,-92.475,18
+83,Margrett,F,Nile University,Tok Pisin,41.697,-96.581,35
+84,Sancto,M,Robert Morris College of Chicago,Mongolian,40.426,-93.437,29
+85,Jahner,F,Pohang University of Science and Technology,Belarusian,41.892,-90.484,18
+86,Bain,F,"Arizona State University, Downtown Phoenix Campus",Kashmiri,43.112,-92.055,35
+87,Aucott,M,Universitas Haluoleo,Bislama,43.756,-93.014,22
+88,Sheach,M,Brickfields Asia College,Swati,40.16,-96.126,26
+89,McConnel,F,Talladega College,Tajik,40.555,-93.19,25
+90,Sibson,F,Sultan Qaboos University,Japanese,40.557,-92.008,25
+91,Schuler,F,Universidad Nacional de Ingeniería,Icelandic,42.86,-90.633,21
+92,Giovanardi,M,Fontbonne College,Haitian Creole,41.51,-96.218,31
+93,Ewence,M,Kuwait International Law School,Gujarati,43.335,-90.177,18
+94,Jermyn,M,Universidad Latina de Costa Rica,Chinese,41.3,-91.51,18
+95,Battista,M,Bamenda University of Science & Technology,Croatian,40.963,-91.366,32
+96,Rowlings,M,Universidad Autónoma de Campeche,Nepali,41.51,-90.568,29
+97,Fedorski,M,Dr. Bhim Rao Abdekar University,Bislama,40.458,-96.241,32
+98,Cockings,F,Kurume Institute of Technology,Gagauz,41.641,-91.733,32
+99,Pulfer,F,"School of Pharmacy, University of London",Papiamento,43.024,-91.656,19
+100,Stickney,M,Universidad Modular Abierta,Nepali,40.267,-95.169,20
+101,Hattam,M,American Conservatory Theater,French,40.24,-96.54,28
+102,Jorgesen,M,Rafsanjan University of Medical Sciences,Khmer,42.536,-93.007,27
+103,Laidler,F,Aarhus School of Business,Bislama,40.379,-96.422,32
+104,Pimlock,M,Université des Sciences Sociales (Toulouse I),New Zealand Sign Language,43.541,-96.11,35
+105,Carme,M,Katowice School of Economics,French,43.577,-90.403,30
+106,Caldeyroux,M,Universidad Autónoma de Madrid,Estonian,40.8,-93.588,23
+107,Cliffe,F,Université d'Orléans,Nepali,42.204,-93.323,29
+108,Jewess,F,Reitaku University,Romanian,43.209,-94.069,33
+109,Piper,M,Truman State University,Hiri Motu,41.382,-90.989,27
+110,Whetnell,M,Mariano Marcos State University,Swati,42.42,-91.658,34
+111,Bruyett,M,University of Waterloo,Hungarian,40.884,-94.446,21
+112,Fairbrass,F,Astrakhan State University,Macedonian,40.321,-95.19,18
+113,Dehm,M,Arab Open University,West Frisian,41.006,-91.571,20
+114,Lister,M,Universität Passau,Bosnian,40.128,-96.777,19
+115,Doale,F,Hochschule für Philosophie München,Nepali,42.569,-93.23,18
+116,Lawleff,F,Taj International College,English,40.601,-91.029,22
+117,Staniforth,F,Baikal National University of Economics and Law,Filipino,42.142,-94.234,26
+118,Swanwick,F,Lithuania Christian College,New Zealand Sign Language,42.003,-92.69,25
+119,Giacopini,F,Universidade Catolica Portuguesa,Papiamento,42.458,-93.874,18
+120,Braycotton,F,Indian Institute of Science,Czech,40.501,-92.1,31
+121,Chilley,F,"Universidad del Norte ""Santo Tomás de Aquino""",Dzongkha,42.401,-91.779,35
+122,Buncom,F,University of the Assumption,Hungarian,43.528,-90.886,30
+123,Thistleton,M,University of Louisiana at Monroe,Danish,43.703,-93.786,35
+124,Gonsalo,M,"Islamic Azad University, Roodehen",Pashto,42.795,-93.23,28
+125,MacAndrew,F,Yamaguchi University,Tsonga,41.601,-94.989,30
+126,Vigneron,F,Louisiana Tech University,Montenegrin,41.283,-91.822,18
+127,Klemke,F,University of Kirkuk,Bislama,41.306,-94.938,22
+128,Carreck,F,Akademia Podlaska,Haitian Creole,40.374,-92.956,30
+129,Ollive,M,Medical University Varna,Kashmiri,42.626,-90.887,31
+130,Trunks,F,University of Colorado at Boulder,Pashto,43.038,-90.035,23
+131,McCardle,M,City University,Punjabi,41.992,-93.413,26
+132,Union,M,Ecole de l'Air,Mongolian,42.15,-94.014,26
+133,Kovnot,M,Université Charles-de-Gaulle (Lille III),Quechua,41.2,-91.728,20
+134,Ludewig,M,"Universidad de Puerto Rico, Rio Pedras",Haitian Creole,42.114,-96.807,23
+135,Rosling,F,Massey University,French,41.498,-96.899,31
+136,Boothby,F,Meharry Medical College,Burmese,43.376,-92.713,27
+137,Sainsbury,M,Wuhan University School of Medicine,Marathi,42.19,-92.02,34
+138,Geane,F,Lingnan University,Ndebele,41.3,-94.196,31
+139,Eade,M,Escuela Agricola Panamericana Zamorano,Kannada,40.787,-96.268,34
+140,Swindall,M,St. Petersburg State University of Civil Aviation,Hebrew,41.894,-93.058,33
+141,Woltering,M,Nicholls State University,Thai,40.771,-90.437,34
+142,Copo,F,Australian Lutheran College,Spanish,43.93,-93.13,31
+143,Eglese,F,Lutherische Theologische Hochschule Oberursel,Lao,43.318,-93.176,27
+144,Lifsey,F,Università Pontifcia Salesiana,Tok Pisin,42.132,-93.637,19
+145,Owers,M,Faculdades Integradas UPIS,Sotho,43.209,-91.257,19
+146,Bransby,M,"University of Houston, Victoria",Georgian,42.139,-95.464,29
+147,Prevost,M,Université des Antilles et de la Guyane,English,40.433,-93.7,30
+148,Mapes,F,Ecole Nationale Supérieure de Chimie de Montpellier,Telugu,42.09,-96.19,34
+149,Ilem,M,Vitebsk State Medical University,Malay,40.18,-92.623,26
+150,Burburough,M,Universidad Notarial Argentina,Dutch,40.766,-95.986,25
+151,Lghan,M,Ecole Nationale Supérieure de Chimie de Paris,Macedonian,40.122,-96.162,28
+152,Fairnie,M,Sapporo Medical University,Tamil,41.974,-92.578,25
+153,Fernie,M,Yaroslavl State Technical University,Portuguese,42.195,-92.136,34
+154,Coxen,M,University of Helsinki,Italian,41.011,-93.2,30
+155,McCrie,F,University of Pune,Hungarian,43.359,-92.556,34
+156,Mathivet,F,University of Fribourg,West Frisian,41.853,-96.621,31
+157,Yandle,M,Universitat de Barcelona,Catalan,43.26,-94.954,27
+158,Gillies,M,Osaka University of Foreign Studies,Zulu,41.161,-95.326,27
+159,Simms,M,University of Da Lat,Marathi,41.402,-95.133,22
+160,Lunck,M,Institute of Clinical Social Work,Persian,42.109,-91.29,22
+161,Laurance,M,Hue University,Polish,40.325,-93.569,23
+162,Treby,M,Universidad Americana,Maltese,43.475,-92.473,18
+163,Matteris,M,Institut National Polytechnique de Lorraine,Aymara,43.144,-93.623,24
+164,Chavez,M,Canisius College,French,42.517,-93.398,18
+165,Bilofsky,M,Fernuniversität Gesamthochschule Hagen,Kyrgyz,43.382,-94.171,25
+166,Berard,M,St. Norbert College,Papiamento,40.8,-95.765,19
+167,Buckerfield,F,Linguistic University of Nizhny Novgorod,Indonesian,41.624,-91.271,35
+168,Stidston,M,Sri Sathya Sai Institute of Higher Learning,Tswana,43.939,-94.906,30
+169,Rablin,F,Universidad de Extremadura,Kannada,42.532,-92.968,28
+170,Livzey,F,Armstrong Atlantic State University,Spanish,42.163,-94.484,29
+171,Kira,F,Celal Bayar University,Tetum,42.167,-90.219,34
+172,Edowes,M,Universidad Tecnológica del Centro,Japanese,42.183,-95.193,18
+173,Ballentime,M,Indiana University - Northwest,Lithuanian,40.436,-91.39,27
+174,Harland,F,Damghan University of Basic Sciences,Hebrew,42.822,-92.785,21
+175,Bartomieu,M,University of Glamorgan,Marathi,42.96,-91.08,22
+176,Harriman,M,Nazarene Bible College,Romanian,42.618,-93.452,18
+177,Ivashkin,F,University of Technology and Life Sciences,Ndebele,42.829,-92.381,35
+178,Pariss,M,Ecole Normale Supérieure de Cachan,Assamese,42.044,-90.224,23
+179,Milland,M,Université des Sciences Sociales (Toulouse I),Quechua,41.887,-95.662,26
+180,Liptrot,F,Tokyo Engineering University,Ndebele,43.428,-94.285,25
+181,Alpe,F,Yildirim Beyazit University,Korean,41.878,-91.869,25
+182,Wyse,F,Hosei University,Chinese,40.24,-90.009,26
+183,Grubbe,F,Dutch University Institute for Art History (DUIA),Yiddish,42.51,-94.197,34
+184,Old,M,Ecole des Hautes Etudes Commerciales du Nord,Dutch,40.619,-93.352,25
+185,Colquitt,M,Universidad Nacional de Lomas de Zamora,Danish,41.035,-95.038,26
+186,Lawman,M,Modern Sciences & Arts University,Somali,40.381,-92.753,28
+187,Seignior,M,Fine Arts Academy in Warsaw,Portuguese,40.101,-92.448,18
+188,Spriggin,M,Glion Institute of Higher Education,English,43.483,-94.002,25
+189,McCreary,M,European University Institute,Pashto,42.879,-94.746,35
+190,Pinnegar,F,"Arizona State University, Tempe Campus",Kazakh,43.23,-91.67,29
+191,Dadge,F,Tohoku Fukushi University,Quechua,41.694,-90.594,19
+192,Gorries,F,Nevsky Institute of Language and Culture,Ndebele,43.662,-94.176,26
+193,Largan,F,Emmaus Bible College,Gagauz,41.886,-90.639,21
+194,Rennox,F,University of Alabama - Birmingham,Sotho,42.234,-90.888,24
+195,Lane,M,Universidad Tecnológica San Antonio de Machala,Swahili,41.928,-92.616,21
+196,Quilliam,F,University of South Alabama,Moldovan,43.612,-92.825,22
+197,Helks,F,Nagoya Institute of Technology,Kashmiri,43.313,-95.145,19
+198,Grendon,M,Heriot-Watt University,English,43.511,-91.902,20
+199,Houlston,F,Shiga University,Spanish,40.619,-92.957,32
+200,McCarthy,M,Isra University,Hiri Motu,43.938,-94.573,34
+201,Ruckert,M,Reformed Theological Academy of Debrecen,Macedonian,41.547,-94.587,23
+202,Pevsner,F,Kirchliche Hochschule Bethel,Thai,40.025,-91.977,34
+203,Rymell,M,Universidad Intercontinental,Montenegrin,43.547,-92.656,30
+204,Santon,M,Maejo University,Catalan,42.296,-95.612,19
+205,Jerzyk,M,Hong Kong Shue Yan College,Thai,42.17,-92.99,29
+206,Mebs,M,Harran University,Aymara,40.577,-91.815,25
+207,Pieracci,M,Vesalius College,Spanish,41.785,-92.889,24
+208,Duddy,F,Soka University of America,Afrikaans,40.078,-92.786,25
+209,Gridon,F,Atlanta College of Art,Azeri,40.669,-92.796,33
+210,Antonazzi,M,Omsk State Agrarian University,Italian,42.906,-95.876,32
+211,Grishanin,F,University of Rajshahi,Tsonga,43.679,-92.418,34
+212,Lafrentz,F,Naif Arab University for Security Sciences,Portuguese,41.282,-92.866,33
+213,Bafford,F,IBAIS University,Armenian,41.818,-94.036,18
+214,Gookey,F,Melaka Islamic University College,Czech,43.044,-93.912,29
+215,Costanza,M,Universidad Agroforestal Fernando A.Meriño,Macedonian,40.999,-90.813,26
+216,Coyle,M,Hobe Sound Bible College,Māori,43.111,-96.918,34
+217,Pascall,M,Universidad Nacional de Quilmes,Malayalam,40.958,-92.801,30
+218,Corrie,M,Universidad Iberoamericana,Romanian,43.15,-96.735,28
+219,Cahan,M,"University of Wales, Swansea",Ndebele,42.231,-95.196,21
+220,Bloomer,F,Atyrau State University,Irish Gaelic,40.715,-91.711,30
+221,Brixey,M,Honam University,French,41.182,-92.851,21
+222,Milington,M,Trinity University School of Medicine,Azeri,41.988,-94.639,35
+223,Baglow,M,Louisiana Tech University,Lithuanian,43.236,-92.963,34
+224,Tschierasche,F,Holy Cross College,Mongolian,40.799,-92.343,22
+225,Bonham,F,Baylor College of Medicine,Maltese,40.412,-95.002,29
+226,Deener,F,Institut Catholique d'Arts et Métiers Nantes,Northern Sotho,42.229,-95.21,21
+227,Veale,F,University Goce Delcev,Northern Sotho,42.365,-95.406,26
+228,Morena,F,Universidad Adolfo Ibáñez,Danish,40.442,-90.683,22
+229,Blackett,M,Universidad Luterana Salvadorena,Dzongkha,41.854,-96.506,31
+230,Mabbott,F,Universidad de Ciencias Empresariales y Sociales,Czech,41.522,-95.248,27
+231,Woodcroft,M,Kharkiv National University of Radio Electronics,Haitian Creole,41.583,-95.906,29
+232,Raise,F,Moore College of Art and Design,Azeri,40.487,-94.164,18
+233,Jorden,M,Palawan State University,Tajik,40.428,-95.035,24
+234,Shropshire,F,2nd Military Medical University,Punjabi,41.773,-96.907,23
+235,Lodeke,M,Ecole Supérieure des Sciences Economiques et Commerciales,Oriya,40.432,-90.009,18
+236,Hemerijk,M,Hanoi University of Mining and Geology,Azeri,40.344,-95.84,25
+237,Kitchenham,M,Duke University,Gujarati,43.771,-91.058,21
+238,Leddie,F,Université Amar Telidji,Danish,42.736,-93.978,28
+239,Glanvill,F,American Public University,Kyrgyz,40.284,-91.656,28
+240,Hugenin,F,Catholic University of Pusan,Mongolian,40.23,-91.337,21
+241,Crowdy,F,Sistan & Balouchestan University,Dari,42.407,-92.54,27
+242,Ghirardi,M,University of Liberal Arts,Dzongkha,40.454,-95.779,28
+243,Keddey,M,Centre Universitaire d'Oum El Bouaghi,Kannada,40.757,-95.476,22
+244,Chell,M,Lviv Medical University,Amharic,42.052,-91.846,30
+245,Durnell,M,Universidad de Lima,Swahili,42.276,-93.642,23
+246,Lowre,F,Makhanlal Chaturvedi National University of Journalism and Communication,Yiddish,40.84,-92.209,33
+247,McCullough,F,Johns Hopkins University,Danish,42.104,-94.691,33
+248,Pembry,M,Uzhgorod National University,Icelandic,43.54,-92.193,23
+249,Morillas,F,Universidade Estadual de Maringá,Danish,40.197,-96.073,23
+250,Moukes,M,Mansoura University,New Zealand Sign Language,43.594,-93.047,22
+251,Copcote,F,Hirosaki Gakuin University,Tswana,43.279,-95.056,18
+252,Copas,F,Lampang Vocational College   ,Korean,42.863,-91.723,22
+253,Jouannot,F,Tama Art University,Tswana,41.124,-95.693,20
+254,Kenealy,F,Ecole Nationale Supérieure des Industries Chimiques de Nancy,Dhivehi,41.383,-91.854,28
+255,Skones,F,Samara State Aerospace University,Croatian,41.595,-93.91,29
+256,Vannozzii,M,Dominican College,Afrikaans,41.846,-95.166,32
+257,Francescozzi,F,Ankara University,Swahili,42.419,-94.448,29
+258,Schirak,F,"Mahatma Gandhi University, Kerala",Dzongkha,43.431,-92.321,35
+259,Meindl,M,Pratt Institute,Danish,41.681,-95.332,20
+260,Manvell,F,Novgorod State University,Marathi,40.93,-94.906,23
+261,Londing,M,Kongju National University,Hindi,40.887,-93.928,30
+262,Noblet,F,South China Normal University,Arabic,43.521,-96.443,26
+263,Spellesy,M,Lancaster Bible College,Tok Pisin,43.568,-95.162,27
+264,Scantleberry,M,Jadavpur University,Moldovan,43.087,-95.023,19
+265,Chastagnier,F,Pacific Lutheran University,Moldovan,40.016,-90.5,20
+266,Dorset,M,VanderCook College of Music,Malay,42.294,-91.775,19
+267,Thoumas,F,Central State University,Catalan,40.556,-94.073,30
+268,Moorerud,M,Colegio de Estudios Superiores de Administración (CESA),Polish,42.665,-93.824,22
+269,Priestnall,M,FTMS Global Academy,Italian,43.519,-94.967,29
+270,Barrable,M,Cranfield University,Māori,43.158,-95.206,27
+271,Scotchforth,F,Moscow State Institute of Steel and Alloys,Khmer,42.845,-92.489,21
+272,Bawcock,F,"DeVry Institute of Technology, Decatur",Indonesian,40.149,-94.094,22
+273,Delhanty,F,Fachhochschulstudiengänge Krems IMC,Guaraní,41.552,-95.117,20
+274,Grove,M,Universidad Pontificia Comillas,Māori,43.764,-95.25,27
+275,Burkart,M,Southwestern Assemblies of God University,Dutch,42.013,-91.151,33
+276,Asbrey,M,Communication University of China,Tsonga,42.132,-92.521,19
+277,Stork,F,State University of New York College at Old Westbury,Swahili,41.199,-96.026,29
+278,Hush,M,St. Petersburg State Agrarian University,Oriya,43.455,-92.597,35
+279,Shackleford,F,Roberts Wesleyan College,German,41.484,-91.877,27
+280,Rawlcliffe,F,Aichi Prefectural University of Fine Arts & Music,Zulu,42.571,-93.908,34
+281,Heindrick,M,"Maharaja Ganga Singh University, Bikaner",Bengali,42.143,-95.563,29
+282,Mainz,M,European University Cyprus,Indonesian,43.996,-94.883,30
+283,Dunkerly,F,Technological Education Institute of Larissa,Afrikaans,43.943,-90.917,27
+284,Scholefield,F,Villanova University,Zulu,42.257,-90.196,24
+285,Crady,F,Ecole Nationale Supérieure des Arts et Industries de Strasbourg,Quechua,40.184,-90.563,31
+286,Munford,F,Greenwich University,Aymara,40.31,-93.75,29
+287,Gaynesford,F,The Tulane University of New Orleans,Guaraní,41.717,-96.859,20
+288,Mirfield,M,Cukurova University,French,43.4,-94.926,19
+289,Tendahl,F,Ibra College of Technology,Khmer,43.861,-93.234,27
+290,Lynthal,M,Université de Nice-Sophia Antipolis,Macedonian,41.722,-90.358,24
+291,Dowty,M,Middle East Technical University,Malagasy,40.32,-94.632,32
+292,Vinau,M,"Universidad del Norte ""Santo Tomás de Aquino""",Marathi,40.376,-93.802,31
+293,Duigan,F,Botho University,Tetum,40.281,-94.543,28
+294,Giovannazzi,M,Augustana College,Haitian Creole,41.034,-93.356,20
+295,Jedrys,M,Universidad de Córdoba,Bislama,43.094,-91.813,28
+296,McTeggart,F,Maakhir University,Gujarati,43.953,-90.118,31
+297,Tremelling,M,Marist College,Malayalam,43.82,-96.256,26
+298,Silk,M,Richmond University - The American International University in London,Burmese,43.624,-93.152,23
+299,Delmage,M,Royal Danish Academy of Music,Czech,40.523,-90.806,31
+300,Chapple,F,Ain Shams University,Norwegian,40.872,-91.2,25
+301,Gabby,M,University of Hull,Swati,40.678,-91.51,21
+302,Fouracre,F,Southwest Petroleum University,Hebrew,40.672,-94.223,31
+303,Rountree,F,Aktau State University,Kyrgyz,41.721,-90.488,30
+304,Brundale,M,Targu-Mures University of Theatre,Quechua,40.526,-90.298,31
+305,Gideon,F,Isfahan University of Technology,Latvian,42.221,-90.265,32
+306,Dellenbrok,F,Capitol University,Croatian,40.707,-91.926,30
+307,Dopson,M,American University in Cairo,Tajik,40.994,-90.896,21
+308,Coyte,M,Umaru Musa Yar'Adua University ,Arabic,43.514,-94.432,24
+309,Zimmermanns,F,Agricultural University of Poznan,Mongolian,42.129,-93.718,34
+310,McGahy,M,Technical Institute of Dubnica in Dubnica nad Váhom,Irish Gaelic,42.148,-92.983,21
+311,Redmell,F,St. Joseph's College,Arabic,43.15,-94.19,35
+312,Tottman,M,PSG College of Technology,Northern Sotho,40.833,-94.597,27
+313,Daniello,F,Politécnico Grancolombiano - Institución Universitaria,New Zealand Sign Language,42.305,-96.801,26
+314,Corsar,F,STMIK AMIKOM Yogyakarta,Polish,42.102,-90.941,30
+315,Polhill,M,Baker College of Port Huron,Tamil,40.986,-94.2,18
+316,Kuhle,M,Gemological Institute of America,Croatian,43.574,-95.272,19
+317,MacGillespie,F,Warnborough University,Malay,41.549,-90.587,33
+318,Swafield,F,University Of Dubai,Māori,41.758,-90.203,24
+319,Olney,M,Warner Pacific College,Haitian Creole,43.38,-91.931,23
+320,Petracci,F,Université de Sidi-Bel-Abbès (Djillali Liabès),Catalan,41.914,-92.953,32
+321,Wilhelmy,M,Westfälische Wilhelms-Universität Münster,Macedonian,42.549,-91.344,31
+322,Casperri,F,Phillips Graduate Institute,Japanese,43.683,-96.7,23
+323,Alliker,M,World Maritime University,Bislama,43.943,-90.357,28
+324,Fullicks,M,Denver Technical College,Spanish,41.489,-90.898,26
+325,Sines,F,National University,Norwegian,42.289,-92.439,32
+326,Larderot,M,Colorado State University,Azeri,41.062,-96.565,32
+327,Klement,M,Universidade do Estado de Santa Catarina,Macedonian,41.218,-96.475,33
+328,Pellett,F,Osaka Prefectural University,Kannada,40.008,-92.852,33
+329,Getcliff,F,"Institute of Teachers Education, Darul Aman",Catalan,42.427,-91.472,23
+330,McCandie,M,Knowledge International University,Bislama,40.656,-90.462,19
+331,Cornill,F,Himachal Pradesh University,Albanian,42.582,-92.909,35
+332,Jickells,M,Champlain College,Italian,42.0,-92.015,18
+333,Ree,F,Middlebury College,Dari,41.258,-95.53,30
+334,Janeway,M,"Institute of Education, University of London",Croatian,43.985,-96.258,20
+335,Geering,F,National University of Modern Languages,Tamil,40.937,-91.788,23
+336,Olechnowicz,M,"University of California, Hastings College of Law",Pashto,43.903,-93.116,21
+337,Naseby,M,Hahnamann Honoeopathic Medical College,Kazakh,40.635,-92.274,24
+338,Blackborough,F,"Academy of Performing Arts, Film and TV Fakulty",Irish Gaelic,43.508,-90.031,19
+339,Godlonton,F,Universidad Cardenal Herrera-CEU,Yiddish,40.599,-90.501,20
+340,Wildes,M,University of Neuchatel,Kurdish,41.843,-94.627,26
+341,Nafziger,F,King Saud bin Abdulaziz University for Health Sciences ,Gujarati,42.714,-96.434,20
+342,Treacher,F,Polytechnic Institute of Bari,Belarusian,42.368,-94.65,33
+343,Ellingham,M,Universidade do Rio Grande,Armenian,41.172,-93.771,28
+344,Jory,M,Universidad Nacional de Mar del Plata,Danish,40.328,-95.153,28
+345,Huegett,M,Universidade Estácio de Sá,Kurdish,41.373,-95.782,33
+346,Leneve,M,Heriot-Watt University,Albanian,42.593,-93.007,34
+347,Pesic,F,Universidad del Desarrollo,Aymara,42.683,-96.771,23
+348,Killik,M,"Islamic Azad University, North Tehran",Hiri Motu,42.869,-95.177,30
+349,Cawthorne,F,Himachal Pradesh University,Azeri,40.39,-91.942,22
+350,Nesbit,F,Fujita Health University,Persian,40.475,-90.186,21
+351,Stickins,M,Escuela Bancaria y Comercial,Zulu,41.801,-90.546,22
+352,Iliffe,M,Scandinavian Art and Business Institute,Telugu,42.528,-93.139,26
+353,Le Estut,M,Universidade de Pernambuco,Khmer,43.094,-96.044,31
+354,Helder,F,Sumgait State University,Luxembourgish,42.306,-96.055,34
+355,Sapena,F,Mansfield University of Pennsylvania,Tok Pisin,41.816,-90.002,19
+356,Armatys,F,Military Technical College,Thai,42.872,-92.125,23
+357,Severwright,F,Instituto Politécnico de Lisboa,Assamese,40.68,-93.689,33
+358,Rablan,M,Seonam University,Dzongkha,40.058,-94.542,18
+359,O'Shiel,F,Music Academy in Cracow,Papiamento,43.183,-96.429,35
+360,Mewis,F,Chosun University,Thai,41.12,-96.823,23
+361,Witherbed,M,South Eastern University of Sri Lanka,Assamese,42.502,-93.728,23
+362,Trippett,M,Kaboora Institute of Higher Education,Montenegrin,40.913,-91.153,32
+363,Feathersby,F,University of Groningen,Sotho,43.568,-91.692,31
+364,Garter,F,Albany State University,New Zealand Sign Language,42.865,-96.758,34
+365,Tripcony,M,St. Petersburg State University of Aerospace Instrumentation,Malay,41.153,-93.431,30
+366,Porter,M,Lincoln Memorial University,Assamese,40.039,-95.26,28
+367,Pointin,M,Universitat Oberta de Catalunya,Croatian,42.596,-91.617,26
+368,Rebert,M,Yanbu University College,Nepali,43.589,-95.354,27
+369,Quest,M,San Francisco State University,Romanian,40.259,-95.303,29
+370,Rosgen,M,Minnesota Bible College,Italian,41.119,-90.504,21
+371,Dysart,M,Universitas Pancasakti Tegal,Montenegrin,41.329,-93.099,34
+372,Marks,M,"University of Wales, Lampeter",West Frisian,43.883,-96.127,19
+373,Geipel,M,University of Engineering and Technology Peshawar,Romanian,41.401,-90.783,23
+374,Childrens,M,Baltimore Hebrew University,West Frisian,43.877,-91.947,22
+375,Vasyuchov,M,Universitas Mataram,Montenegrin,41.015,-91.751,19
+376,Moodie,F,Universidad de La Salle,Persian,42.672,-92.104,21
+377,Ferruzzi,M,Eberhard-Karls-Universität Tübingen,Norwegian,40.216,-93.847,30
+378,Mantripp,F,Higher School of Psychology,New Zealand Sign Language,41.775,-90.381,33
+379,Gorman,F,University of Medicine and Dentistry of New Jersey,Macedonian,41.429,-91.888,26
+380,Emmanuele,M,Livingstone College,Assamese,43.723,-91.059,29
+381,Bricket,M,Huazhong Agricultural University,Amharic,40.422,-92.687,33
+382,Redbourn,M,University of Idaho,German,43.208,-96.118,23
+383,Southcoat,F,Ecole Nationale Supérieure de l'Aéronautique et de l'Espace,Tetum,43.165,-94.87,24
+384,Suff,F,Koyasan University,Croatian,41.836,-94.174,31
+385,Antill,F,Missouri Western State College,Korean,40.949,-91.74,26
+386,Snedker,F,Joseph Ayo Babalola University,Luxembourgish,43.663,-94.452,24
+387,Sturley,M,Hyrcania Institute of Higher Education,Kazakh,41.39,-91.355,28
+388,Trevethan,M,"Swiss Federal Institute of Technology, Lausanne",Mongolian,40.19,-93.885,30
+389,Redit,M,Universidad Gran Mariscal de Ayacucho,Indonesian,43.499,-90.792,27
+390,McElvogue,M,Buraydah College for Applied Medical Sciences,Swati,40.045,-94.981,21
+391,Iskov,F,Technische Universität Chemnitz,Italian,41.818,-93.919,34
+392,Vescovini,F,East Kazakstan State Technical University,English,42.709,-92.95,24
+393,Ast,F,University of Mississippi Medical Center,Tajik,41.982,-96.41,35
+394,Datte,F,University of Nizwa,Japanese,42.897,-93.906,25
+395,Scaplehorn,F,Pädagogische Hochschule Schwäbisch Gmünd,Punjabi,40.603,-93.02,31
+396,Mailey,F,University of the West Indies St. Augustine,English,42.534,-91.932,25
+397,Giamuzzo,M,Baptist Bible College of Missouri,Afrikaans,43.012,-90.885,27
+398,Kliemchen,F,Kutztown University of Pennsylvania,German,40.981,-90.004,33
+399,Thatcham,M,King Saud bin Abdulaziz University for Health Sciences ,Albanian,43.657,-91.275,34
+400,Featonby,M,Moscow State Institute of International Relations MFA Russia (MGIMO-University),Macedonian,40.306,-93.505,30
+401,Code,F,Universiti Teknologi Petronas,Tsonga,42.142,-90.946,30
+402,Laurand,F,Los Angeles College of Chiropractic,Filipino,42.211,-91.791,18
+403,Furmage,F,Punjab Agricultural University,Amharic,41.012,-90.973,27
+404,Vynehall,M,Samuel Merritt College,Ndebele,43.572,-90.274,25
+405,Morde,F,St. Martin's College,Dari,41.695,-93.107,23
+406,Bastide,F,Universidade Estadual de Santa Cruz,Tswana,43.301,-95.11,35
+407,McMurtyr,F,Toyama Medical and Pharmaceutical University,Croatian,41.659,-90.66,32
+408,Pogosian,M,Universidad Católica Cecilio Acosta,Danish,43.521,-90.648,33
+409,McGuane,M,Université Val-de-Marne (Paris XII),Mongolian,43.626,-95.032,29
+410,Ruhben,M,Sultan Qaboos University,Arabic,40.739,-95.755,35
+411,Frankham,F,University of Applied Science and Technology,New Zealand Sign Language,40.647,-94.061,23
+412,Sterrie,M,University of Maine (System),Maltese,40.533,-90.147,19
+413,Zanolli,M,Jawaharlal Nehru University,Bulgarian,43.56,-95.058,26
+414,Lacoste,M,Ecole de l'Air,Thai,41.76,-94.772,29
+415,Coit,F,Harare Institute of Technology,Norwegian,41.295,-92.578,27
+416,Fishpond,M,Holy Apostles College,Hebrew,43.846,-90.47,28
+417,Urridge,M,Idaho State University,Bulgarian,41.625,-94.262,19
+418,Whitney,M,Southeastern Louisiana University,Finnish,41.853,-90.724,29
+419,Friday,F,University of Dhaka,Persian,42.12,-93.951,32
+420,Challicombe,M,Selangor Islamic University College,French,40.201,-92.208,19
+421,Skea,M,University of Twente,Dhivehi,42.78,-90.726,18
+422,Vant,M,University of Sudbury,Haitian Creole,40.328,-92.494,35
+423,Elms,F,South China Agricultural University,Bosnian,40.788,-90.536,27
+424,Leachman,M,University of Sydney,Dutch,40.142,-93.0,19
+425,Grace,M,Oakland City University,Khmer,42.559,-91.193,30
+426,Stidworthy,F,Martin Methodist College,Amharic,43.715,-93.783,19
+427,Esbrook,M,Columbia College Chicago,Khmer,40.157,-93.906,32
+428,Currum,F,Higher Colleges of Technology,Mongolian,43.617,-93.889,34
+429,Whitfield,M,Kerala Agricultural University,Tajik,41.438,-93.3,30
+430,Crebott,M,The New College,Chinese,43.263,-94.351,18
+431,Furst,M,Beykent University,Tetum,43.041,-95.98,22
+432,Vasile,M,Yarmouk Private University ,Romanian,40.513,-91.988,30
+433,Alejandro,M,Hochschule für Gestaltung und Kunst Zürich,Spanish,43.768,-94.216,20
+434,Brandham,F,Ferris University,Swedish,42.933,-90.287,31
+435,Tremblay,F,Tabari Institute of Higher Education,Malagasy,41.416,-94.426,35
+436,Tejada,M,Texas A&M University,Kazakh,43.449,-93.026,26
+437,Brewett,F,Otis College of Art & Design,Tok Pisin,42.315,-92.283,19
+438,Cardoso,M,Universidad Andina del Cusco,Lao,41.333,-96.566,27
+439,Dummett,F,Sugiyama Jogakuen University,Finnish,41.157,-90.557,30
+440,Rockall,M,French University in Armenia (UFAR),Chinese,42.878,-96.643,26
+441,Greenway,F,Jishou University,Tok Pisin,41.893,-91.067,18
+442,Zywicki,M,Persian Gulf University,Bosnian,41.962,-94.722,30
+443,Lowten,F,"University of Elbasan ""Aleksander Xhuvani""",Pashto,42.513,-94.93,33
+444,Oven,F,Fine Arts Academy in Warsaw,Lithuanian,42.588,-96.888,23
+445,Wethey,M,Royal School of Library and Information Science,Catalan,42.272,-94.335,23
+446,Rishworth,M,Saitama Medical School,Arabic,42.42,-96.438,35
+447,Parres,M,Columbia Southern University,Kurdish,41.92,-90.169,19
+448,Conre,M,Bryn Athyn College of the New Church,Maltese,40.453,-93.412,24
+449,Oki,M,University of Worcester,Danish,43.077,-92.761,21
+450,Boydle,M,Kurashiki Sakuyo University,Indonesian,42.746,-95.716,19
+451,Creelman,M,Jacobs University Bremen,Haitian Creole,43.692,-94.171,34
+452,Proback,F,Universidad Central de Venezuela,Gagauz,43.901,-92.134,25
+453,Balffye,M,Agricultural University of Wroclaw,Chinese,41.409,-94.883,28
+454,Arkil,F,Menoufia University,Dzongkha,40.546,-93.345,28
+455,Blondell,M,Universidad Dr. Rafael Belloso Chacín,Tamil,40.462,-93.565,29
+456,Capp,F,Hiroshima International University,Nepali,42.809,-96.589,25
+457,Ferretti,M,University of Tennessee - Memphis,Haitian Creole,43.611,-92.056,29
+458,Quigley,F,Xinjiang University of Finance and Economics,Sotho,42.806,-95.328,28
+459,Cron,M,Espam Formation University,Danish,43.102,-91.537,35
+460,Quincee,M,Cheljabinsk State University,Bulgarian,43.842,-93.423,31
+461,Palister,M,Haigazian University,Punjabi,42.644,-95.055,22
+462,Onions,F,University of the Philippines Baguio,Ndebele,41.608,-92.64,35
+463,Neesham,M,Universitas Airlangga,Icelandic,41.261,-96.693,20
+464,Geindre,F,"National American University, Colorado Springs",Kashmiri,42.466,-91.418,33
+465,Skillett,F,Sri Sathya Sai Institute of Higher Learning,West Frisian,41.164,-90.785,23
+466,Haggart,M,University of the South Pacific School of Agriculture,Malay,42.891,-93.434,33
+467,MacSwayde,M,School of Economic Sciences,Pashto,43.514,-90.684,18
+468,Belbin,F,Southwest University,Bulgarian,43.978,-91.474,20
+469,Hale,M,Seattle University,Romanian,41.489,-90.872,28
+470,Aylwin,F,"British Institute in Paris, University of London",Swati,42.363,-94.627,21
+471,Adamoli,M,Curtin University of Technology,Bosnian,43.586,-94.281,25
+472,Dalwood,F,Izhevsk State Technical University,Dhivehi,40.689,-95.499,23
+473,Shelly,M,École des Hautes Études Commerciales,Latvian,42.15,-95.604,24
+474,Pruvost,M,Montana State University - Billings,Quechua,42.574,-94.526,19
+475,Dudderidge,F,Instituts Supérieurs de Formation des Maîtres,Hebrew,42.986,-95.722,31
+476,Bramsen,M,Asbury College,Tsonga,41.558,-95.082,20
+477,Brecher,F,Centennial College,Danish,40.705,-93.549,33
+478,Warriner,M,Danish University of Education,Dari,43.164,-93.263,24
+479,Mee,F,Universidad Autónoma de la Laguna,Swati,41.145,-93.898,19
+480,Brazier,F,Fountain University,Kyrgyz,43.799,-95.144,29
+481,Wimmer,M,Tibet Tibetan Medical College,Malagasy,43.997,-95.303,33
+482,Leist,F,Yangtze Normal University,Kazakh,43.583,-96.396,30
+483,Hearnaman,M,Carleton College,Catalan,43.107,-91.911,25
+484,Ealam,F,Open Polytechnic ,Icelandic,41.119,-95.322,27
+485,Shiers,F,"Universidad de Puerto Rico, Utuado",Bosnian,42.235,-93.613,25
+486,Adamson,F,University of Development Alternative,Haitian Creole,41.633,-93.199,29
+487,Whitford,F,Universidad INCCA de Colombia,Haitian Creole,41.832,-95.522,20
+488,De La Coste,M,Universidade Ibirapuera,Norwegian,42.701,-90.94,28
+489,Goodnow,F,Black Hills State University,Malay,42.841,-96.823,22
+490,Esome,M,Mersin University,Irish Gaelic,43.289,-92.457,25
+491,Kleinstub,M,Adigrat University,Thai,42.925,-90.289,19
+492,Overstone,M,Brescia University,Assamese,41.336,-92.528,26
+493,Gleadhall,F,Symbiosis International University,Norwegian,42.65,-95.636,24
+494,Johnsson,F,Technical University of Mombasa,Quechua,43.005,-91.336,19
+495,Baldini,F,University of Texas Southwestern Medical Center at Dallas,Macedonian,43.251,-96.342,31
+496,Frier,M,Pontificia Universidad Católica Madre y Maestra (PUCMM),Icelandic,41.442,-94.148,27
+497,Soda,F,Technische Fachhochschule Wildau,Tetum,40.959,-91.313,25
+498,Karpman,F,Fashion Institute of New York,Gujarati,42.033,-90.804,23
+499,Tollfree,M,De Montfort University Leicester,French,43.522,-91.511,35
+500,Bottell,M,European Institute of Education,Māori,41.608,-90.13,21
+501,Trownson,M,Carlos Albizu University,Bulgarian,42.419,-94.066,26
+502,Drysdell,F,University of New York in Prague,Tswana,40.374,-90.925,29
+503,Taig,M,"University of St. Thomas, St. Paul",Tamil,43.714,-96.65,32
+504,Mitford,F,Alsadrain University,Azeri,43.838,-95.367,35
+505,Bawme,M,Modern Institute of Managament,Kannada,42.254,-90.774,22
+506,Barstowk,M,Military University Shoumen,Telugu,43.245,-95.635,18
+507,Meates,M,Asian Medical Institute,Hebrew,42.512,-90.156,32
+508,Grece,F,Hartford College for Women,Malayalam,40.852,-94.567,35
+509,Sallings,M,"Corporación Educativa Mayor del Desarrollo ""Simón Bolivar""",Armenian,42.373,-91.711,22
+510,Tonge,F,Perak Islamic College,Tamil,43.376,-90.069,30
+511,MacKinnon,M,Antioch University Santa Barbara,Tajik,40.852,-95.428,30
+512,Fortescue,M,Rhodes University,French,40.822,-95.127,27
+513,Schops,F,Hungarian Academy of Craft and Design,Telugu,42.491,-92.707,27
+514,Wearing,F,"Universitatea de Vest ""Vasile Goldi&#351;"" ",Pashto,43.12,-95.692,24
+515,Voyce,M,State University of New York College of Technology at Alfred,Mongolian,41.802,-90.682,33
+516,Peinton,M,"School of Slavonic and East European Studies, University of London",Armenian,43.165,-95.537,35
+517,Gregoretti,F,Université Cadi Ayyad,Hindi,43.282,-92.273,23
+518,Spreckley,F,Universidade São Francisco,Kashmiri,40.205,-92.464,31
+519,Astridge,M,California Institute of the Arts,Guaraní,41.368,-92.608,23
+520,Garrood,F,University of Mary,Polish,40.178,-95.356,30
+521,Millmore,M,"Institute of Teachers Education, Temenggong Ibrahim",Kannada,41.663,-96.978,33
+522,Ravens,M,Mahatma Phule Agricultural University,Kyrgyz,41.479,-90.804,25
+523,Bugbee,F,Tyumen State University,Hiri Motu,43.722,-90.952,18
+524,Scarff,F,University of Texas Pan American,Quechua,41.599,-91.445,27
+525,Theunissen,F,Kwara State Polytecnic,Finnish,42.914,-90.707,20
+526,Rylands,M,Universidade Luterana do Brasil,Macedonian,40.302,-93.643,24
+527,Sigert,F,Université Jean Monnet,Oriya,42.801,-91.306,30
+528,Zukierman,F,"Music Academy ""Felix Nowowiejski"" in Bydgoszcz",Polish,42.793,-96.17,22
+529,Blaza,M,Salem University,Khmer,41.65,-92.102,31
+530,Laville,F,Presbyterian College,Guaraní,43.286,-95.187,23
+531,Bockmaster,F,Trinity International University,Malayalam,42.76,-93.289,34
+532,Kenwell,F,Ecole Nationale des Travaux Publics de l'Etat,Swati,41.872,-94.98,21
+533,Vamplew,F,Ecole Nationale Supérieure des Mines de St-Etienne,Guaraní,40.901,-92.524,24
+534,Laying,F,Baqai Medical University,Albanian,40.226,-96.963,35
+535,Redgrove,F,EUCLID University,Chinese,42.851,-90.074,21
+536,Meers,F,FAST - National University of Computer and Emerging Sciences (NUCES),Portuguese,40.654,-93.898,23
+537,Fadden,F,Al-Quds University - The Arab University in Jerusalem,Arabic,40.324,-90.295,18
+538,Sidnall,F,American College of Thessaloniki,Telugu,42.08,-95.951,34
+539,Patry,M,University of Namibia,Arabic,43.378,-93.813,20
+540,Tureville,F,Theologische Fakultät Trier,Malay,43.921,-95.261,20
+541,Withnall,M,University of New Haven,Japanese,42.097,-96.546,19
+542,Grenter,F,Dominican School of Philosophy and Theology,New Zealand Sign Language,40.083,-91.42,25
+543,Reyner,F,University of Palestine,Macedonian,41.033,-94.799,32
+544,Epperson,F,Elms College,Tajik,42.699,-94.714,31
+545,Petch,M,University of Basrah,Icelandic,41.153,-95.476,25
+546,Studholme,M,American International College,Japanese,40.237,-92.875,18
+547,Penson,M,State University of New York College at Plattsburgh,Polish,41.76,-91.199,20
+548,Rowling,F,Hakuoh University,Hindi,43.285,-91.116,24
+549,Norfolk,M,South Eastern University of Sri Lanka,Papiamento,40.1,-90.797,27
+550,Frizzell,M,New Era University,English,42.104,-96.877,18
+551,Kasper,M,Philadelphia College of Osteopathic Medicine,Malay,42.939,-94.055,29
+552,Banasik,F,Mahatma Gandhi Kashi Vidyapith ,Gagauz,42.625,-94.955,35
+553,Igounet,M,Damascus University,Māori,41.435,-91.621,33
+554,Sumshon,F,Hochschule Bremen,Amharic,42.898,-91.68,18
+555,Basil,M,Université Pierre et Marie Curie (Paris VI),Japanese,40.326,-95.171,23
+556,McGarry,M,Université Catholique de l' Ouest,Kyrgyz,41.192,-93.909,25
+557,Gibbon,M,Osaka University of Foreign Studies,Croatian,43.697,-95.063,24
+558,Bosanko,M,Linton University College,Afrikaans,40.139,-96.507,32
+559,Cairns,M,Politeknik Pos Indonesia,Tsonga,41.156,-92.218,28
+560,Howton,F,Universidad Agraria del Ecuador,Mongolian,43.98,-96.456,27
+561,McKomb,M,Walsh University,Bengali,40.077,-93.585,29
+562,Swannell,M,Illinois College of Optometry,Bosnian,40.006,-92.7,32
+563,McNuff,M,University of Liberal Arts,Tajik,43.958,-93.237,35
+564,Bridges,F,Culver-Stockton College,Montenegrin,42.966,-90.082,34
+565,Shrimptone,F,Fachhochschule für Verwaltung und Rechtspflege Berlin,Gagauz,42.891,-96.292,28
+566,Climo,F,University of Karachi,Swedish,41.978,-96.684,21
+567,Halvorsen,F,Kyrgyz National Agrarian University,Lithuanian,42.417,-92.943,23
+568,Dominey,M,Fukushima University,Tetum,42.823,-95.824,21
+569,Roubottom,F,Siauliai University,Gujarati,41.826,-95.094,34
+570,Sharply,M,Southeast University,Hungarian,41.572,-93.723,32
+571,Grigsby,M,State University of New York College of Technology at Farmingdale,Northern Sotho,43.379,-91.614,27
+572,Garstang,M,Universitas Jambi,Polish,43.107,-90.583,23
+573,O'Sharkey,M,Norfolk State University,Bengali,41.515,-91.133,21
+574,McGillicuddy,F,Fachhochschule des Mittelstandes (FHM),Fijian,43.512,-92.329,32
+575,Anten,F,Third University of Rome,Korean,43.933,-92.627,24
+576,Castle,F,Universitas Riau,Korean,40.964,-91.701,31
+577,Whitelock,M,University of South Carolina,Hebrew,41.917,-93.703,25
+578,Gozney,F,Boise State University,Filipino,42.814,-95.786,34
+579,Alday,F,Lipscomb University,Arabic,40.804,-90.008,22
+580,Hustler,F,"Islamic Azad University, Quchan",Italian,41.141,-94.297,19
+581,Abisetti,F,Alaska Bible College,Gagauz,43.158,-91.046,20
+582,Bromfield,M,IASE (Institute of Advanced Studies) Deemed University,Māori,42.574,-93.597,34
+583,Heinecke,M,Radford University,Tetum,40.317,-91.132,35
+584,Goslin,M,Ecole Nationale Supérieure du Pétrole et des Monteurs,Dhivehi,42.991,-91.434,23
+585,Poolton,M,University of North Carolina at Asheville,Thai,41.563,-96.3,32
+586,Lackner,F,University of Dayton,Kurdish,40.477,-92.858,18
+587,Kohnert,F,University of South Carolina - Union,Ndebele,42.064,-92.944,22
+588,Kaygill,F,Pontifcia Università Gregoriana,Tok Pisin,43.041,-91.143,32
+589,Muckeen,M,Antioch University Los Angeles,Kyrgyz,42.32,-92.871,21
+590,Clayson,M,Fontbonne College,Hindi,43.103,-96.32,34
+591,Wybern,M,Arlington Baptist College,Fijian,41.749,-90.829,25
+592,Bocken,M,University of Education,Marathi,43.329,-91.578,20
+593,Kestian,M,University of Lapland,Kyrgyz,41.824,-91.608,28
+594,Dell'Abbate,F,"University of Moncton, Shippagan",Afrikaans,40.505,-94.68,19
+595,Cohani,M,Universidad de Los Andes,Amharic,42.32,-96.997,25
+596,Delgaty,M,Avicenna International College,Kashmiri,41.837,-94.197,20
+597,Berzen,F,Leyte Normal University,Papiamento,42.917,-93.535,33
+598,Chappell,F,Institute of Business Administration (IBA),French,41.601,-91.711,33
+599,Ryder,M,Saga University,Norwegian,42.811,-90.965,30
+600,Andrivel,F,Saratov State Technical University,Dutch,40.458,-95.707,35
+601,Hadkins,M,International Hotel Management Institute,Greek,41.479,-92.358,20
+602,Banner,M,University Oil- Gas Ploiesti,Filipino,41.486,-96.013,24
+603,Colmer,F,Renmin University of China,Italian,41.654,-90.701,32
+604,McSaul,M,"Islamic Azad University, Saveh",Papiamento,41.956,-94.587,22
+605,Stowe,M,Memphis College of Art,German,42.947,-94.194,32
+606,Solon,F,Université Senghor d'Alexandrie,Albanian,41.333,-91.607,19
+607,Poter,F,Jamestown College,Latvian,42.041,-90.847,22
+608,Sebyer,M,Bournemouth University,Fijian,43.11,-91.602,33
+609,Vernham,M,Fresno City College,Finnish,40.097,-90.492,22
+610,Leverentz,M,South China University of Technology,Persian,40.424,-96.735,23
+611,Yarranton,M,Art Institute of Southern California,Bislama,41.575,-96.035,25
+612,Blewitt,M,Centro de Estudios Avanzados de Puerto Rico y el Caribe,Swahili,41.74,-93.547,33
+613,Pestell,M,United States Air Force Academy,German,42.636,-90.877,18
+614,Bulpitt,F,University of Catania,Kurdish,40.83,-90.171,20
+615,McKiddin,M,Universidad Isaac Newton,Croatian,42.868,-90.992,30
+616,Laible,F,Columbia Commonwealth University,Icelandic,43.401,-93.044,29
+617,Butt Gow,F,Roosevelt Academy University College,Finnish,42.899,-92.046,19
+618,Jordon,M,Cape Peninsula University of Technology,Spanish,43.311,-94.131,21
+619,Janowski,F,University Marien Ngouabi Brazzaville,Hebrew,41.26,-91.575,20
+620,Sach,M,North Georgia College,Bosnian,40.063,-93.894,30
+621,Fransinelli,F,Pomeranian Academy of Medicine in Szczecin,Catalan,42.171,-91.488,35
+622,Dupree,F,Fachhochschule Bielefeld,Azeri,42.32,-91.524,20
+623,O'Keenan,M,Universitas Jenderal Soedirman,Dhivehi,43.211,-95.296,19
+624,Siemianowicz,F,Jiangxi University of Finance and Economics,Georgian,43.646,-94.988,29
+625,Bramont,M,Universitas Lampung,Hebrew,40.376,-91.21,27
+626,Trigwell,M,Music Academy in Lodz,Croatian,42.742,-92.942,35
+627,Shorthouse,F,Applied Science University,Haitian Creole,42.375,-91.155,21
+628,Daborn,M,University of Kerala,Korean,43.062,-93.651,27
+629,Lynam,M,University of Birmingham,Guaraní,42.762,-92.733,29
+630,Ivatts,M,National Chengchi University,Swati,40.654,-93.133,28
+631,Grafham,M,Université Abdelmalek Essadi,Yiddish,40.9,-96.806,34
+632,Wagnerin,M,Universidad Dominicana O&M,Lao,42.553,-95.956,25
+633,Demer,M,Tokyo University of Mercantile Marine,New Zealand Sign Language,42.166,-93.947,19
+634,Filipowicz,M,Bowen University,Punjabi,41.281,-91.449,33
+635,Jefferd,M,Glasgow Caledonian University,Swati,43.853,-94.515,24
+636,Gammell,M,Marymount Manhattan College,Albanian,40.389,-94.086,25
+637,Brimson,M,Taejon National University of Technology,Arabic,40.454,-93.413,35
+638,Abrahamowitcz,F,Taiyuan University of Technology,Oriya,40.652,-93.527,18
+639,Dossetter,M,Université de Chlef,Somali,41.238,-90.165,31
+640,Innes,F,Universitas Madura,Indonesian,40.724,-95.546,29
+641,Bradly,M,Camberwell College of Arts,Malayalam,42.894,-92.813,23
+642,Philips,M,Université Mentouri Constantine,Filipino,43.885,-90.837,21
+643,Mumford,M,Central Bible College,Azeri,41.931,-95.369,30
+644,Tressler,M,Walailak University,Haitian Creole,40.912,-91.585,27
+645,Stiddard,M,Hanyang University,Macedonian,43.175,-93.994,20
+646,Aiers,F,Université Paris-Dauphine (Paris IX),English,43.764,-92.853,32
+647,Limer,M,"Islamic Azad University, Garmsar",Malay,41.525,-96.454,28
+648,Wilkisson,M,Hochschule für Berufstätige Rendsburg,Hindi,40.851,-93.15,18
+649,Manlow,F,Ambassador University,Arabic,43.599,-96.895,29
+650,Verriour,F,Jahangirnagar University,Albanian,43.649,-96.212,20
+651,Gillatt,M,International Buddhist College,Moldovan,41.398,-92.921,30
+652,Stuchbery,F,Guangxi University for Nationalities,Japanese,40.766,-92.977,30
+653,Bartlomiej,M,Ecole Supérieure d'Ingénieurs et de Techniciens pour l'Agriculture,Tajik,42.259,-95.754,23
+654,O'Hanlon,F,Bethune-Cookman College,Dutch,40.318,-96.57,22
+655,Grishukhin,F,Université de Montpellier I,Czech,40.773,-93.901,24
+656,Huffy,F,University of Delaware,Northern Sotho,43.094,-95.496,33
+657,Crudginton,F,Academy of Economic Studies of Moldova,Afrikaans,41.07,-92.46,19
+658,Orrah,M,Escuela de Administración de Negocios,Montenegrin,40.347,-96.902,30
+659,Blampy,M,St.Kliment Ohridski University,Tswana,41.66,-96.098,34
+660,Abrahmson,M,Punjab Engineering College Deemed University,Hiri Motu,43.956,-94.884,31
+661,Danneil,F," Akanu Ibiam Federal Polytechnic, Unwana",Macedonian,42.194,-92.948,25
+662,Haverson,M,Darul Hikmah Islamic College,German,40.006,-95.49,34
+663,Fortescue,F,Central Police University,Danish,41.598,-90.464,22
+664,Mishow,F,Berne University,Hebrew,42.074,-93.064,20
+665,Stoffel,F,University of Science and Culture,Gujarati,41.843,-91.423,23
+666,Pelchat,M,Georgia Institute of Technology,Zulu,42.534,-91.798,25
+667,Clemenzi,M,"Florida Metropolitan University, Tampa College Lakeland",English,43.533,-95.305,27
+668,Kolak,F,Pontifica Università Gregoriana,Azeri,43.923,-91.477,31
+669,Spridgen,M,National Taiwan College of Physical Education and Sports,Marathi,40.392,-93.243,25
+670,Watting,F,University of Technology and Life Sciences,Belarusian,40.056,-91.418,30
+671,Fermoy,M,South Eastern University of Sri Lanka,Belarusian,42.724,-93.894,31
+672,Goodliffe,M,Zanjan University,New Zealand Sign Language,43.036,-91.11,25
+673,Howard,F,St. Lawrence University,Gagauz,43.065,-94.28,20
+674,Cuseick,F,Fachhochschule Nordhessen,Papiamento,43.37,-92.832,28
+675,Culligan,M,Nanjing Medical University,Kyrgyz,40.682,-93.898,26
+676,Charer,M,University “Pavaresia” Vlore,Hebrew,41.993,-92.54,25
+677,Melan,M,Universiti Malaysia Kelantan,Kurdish,40.591,-92.744,21
+678,Wedderburn,F,Universitas Ma Chung,Ndebele,41.955,-94.14,29
+679,Porte,M,Universitas Muhammadiyah Makassar,Kannada,42.677,-96.795,23
+680,Rumens,F,Finlandia University,Hebrew,42.706,-92.274,33
+681,Haylett,M,North Central College,Amharic,42.898,-93.8,24
+682,Corkitt,F,Institut de Recherche et d'Enseignement Supérieur aux Techniques de l'électronique,Bengali,42.751,-95.35,29
+683,Jaggar,M,Muroran Institute of Technology,Kannada,42.346,-93.952,32
+684,Tuttiett,M,Université de Pau et des Pays de l'Adour,Malay,42.939,-91.721,26
+685,Swallwell,F,Kyushu Tokai University,Irish Gaelic,43.142,-93.366,31
+686,MacAloren,M,Hungarian Academy of Craft and Design,Arabic,40.168,-94.239,27
+687,Brumen,M,"BGC Trust University, Bangladesh",Malayalam,40.218,-94.884,30
+688,Whyley,M,Gaziosmanpasa University,Burmese,40.72,-91.398,26
+689,Urien,F,"University of Wales, Bangor",German,42.168,-90.571,21
+690,Hurnell,F,Adler School of Professional Psychology,Arabic,41.762,-90.049,21
+691,Legh,M,Donetsk National Technical University,Greek,40.782,-96.571,32
+692,Bernini,M,North Carolina State University,Kyrgyz,41.783,-93.681,29
+693,Enderlein,F,University of Bedfordshire,Persian,42.722,-94.425,18
+694,Liquorish,F,Universidad Nacional de La Matanza,Dari,43.766,-94.542,32
+695,Teggart,M,Sadat Institute of Higher Education,Filipino,40.348,-91.091,20
+696,Dionisetti,M,Uzhgorod National University,Chinese,40.912,-96.395,33
+697,De Mitris,M,Punjab Institute of Computer science,Mongolian,42.416,-90.732,32
+698,Titford,M,Universidade Federal de Ouro Preto,Māori,40.816,-95.408,25
+699,Terbrugge,F,College of Mount St. Joseph,Lithuanian,40.263,-95.397,25
+700,Troup,M,Fachhochschule Bonn-Rhein-Sieg,Northern Sotho,42.405,-94.169,31
+701,Janosevic,M,University of Gezira,Maltese,42.696,-90.47,22
+702,Crier,F,Universidad de Quintana Roo,Armenian,41.625,-96.639,31
+703,Chesworth,M,Chittagong University of Engineering and Technology,Indonesian,40.866,-93.772,19
+704,Tunder,F,St. Petersburg Repin State Academic Institute of Painting Sculpture and Achitecture,Hiri Motu,43.647,-90.002,26
+705,Downton,F,New England Conservatory of Music,Swedish,40.337,-91.098,35
+706,McIlwreath,M,Washington Bible College,Macedonian,42.548,-93.498,21
+707,Brookbank,M,Universiti Tenaga Nasional,Indonesian,43.792,-93.387,32
+708,Oneill,F,University of the Western Cape,Lao,42.384,-90.788,33
+709,Thake,F,Indian Institute of Information Technology,French,43.718,-95.61,18
+710,Jerrolt,M,Odlar Yurdu University,Dari,40.066,-93.48,33
+711,Drepp,M,Nicholls State University,Dari,40.027,-92.286,31
+712,Digger,M,University of Ostrava,Kazakh,42.996,-93.775,34
+713,Odlin,F,Queens College,Czech,40.999,-92.219,24
+714,Worsham,M,University College Cork,Swedish,41.649,-91.7,30
+715,Biddy,F,University of Information Technology and Management in Rzeszow,Bislama,42.155,-94.267,27
+716,Maple,F,Rheinische Fachhochschule Köln,Gagauz,42.281,-90.374,35
+717,Manuello,M,Miyagi University of Education,English,43.825,-92.51,24
+718,Brisker,F,Instituto Tecnologico de Durango,Hebrew,40.023,-92.505,35
+719,Le Cornu,M,Dumlupinar University,Gagauz,42.143,-91.412,19
+720,Buckles,M,Ecole Supérieure d'Ingénieurs en Génie Electrique,West Frisian,42.036,-95.267,20
+721,Mattisssen,F,International People's College,Swahili,42.835,-91.924,23
+722,Suston,F,Universidade Lusiada,Fijian,43.284,-90.722,30
+723,Larwood,M,West Virginia University,Kashmiri,42.467,-93.245,35
+724,Egginson,M,Ural State Academy of Railway Transport,Italian,43.835,-90.045,24
+725,Besant,F,Shenyang University,Dari,40.806,-91.562,19
+726,Grouvel,F,Université de Kinshasa,Georgian,42.39,-96.937,31
+727,Beinke,M,Fundación Universitaria San Martín,Tswana,42.213,-96.4,21
+728,Macknish,M,South China Normal University,Icelandic,41.768,-91.391,21
+729,Goodinson,M,"University of Education, Winneba",English,40.905,-91.406,23
+730,Macquire,F,Africa University,Guaraní,42.305,-91.853,24
+731,Lockton,F,Ohio Northern University,Danish,41.356,-96.311,24
+732,Bedlington,F,Universitas Ibn Khaldun Bogor,Polish,41.2,-93.061,31
+733,Shearmur,M,China Pharmaceutical University Nanjing,Fijian,43.607,-92.344,18
+734,Nix,M,EarthNet Institute,Tamil,41.845,-91.902,21
+735,Rodnight,F,Universidad Privada Boliviana,Tamil,41.272,-91.544,30
+736,Balhatchet,F,Institute of Information Technology,Kyrgyz,43.988,-93.298,21
+737,Piddletown,F,University of Molise,Kashmiri,43.108,-93.067,30
+738,Lawlance,F,Gunma University,Nepali,43.362,-90.764,21
+739,Avery,F,University of Wisconsin - Milwaukee,Mongolian,41.826,-94.25,25
+740,Breeder,M,William Gilbert College,Indonesian,41.866,-93.31,20
+741,Cheston,M,Silesian Academy of Medicine in Katowice,Arabic,41.107,-90.826,33
+742,Meneghi,M,RCSI-Medical University of Bahrain,Croatian,41.823,-92.432,23
+743,McIleen,M,Gokhale Institute of Politics and Economics,Swati,43.477,-90.676,35
+744,Gatlin,F,Bunka Women's University,Punjabi,40.146,-90.229,21
+745,Inge,F,Urbana University,Telugu,42.018,-94.99,22
+746,Kunkler,F,Oita Medical University,English,41.035,-91.04,24
+747,Brierly,F,Dartmouth College,Filipino,41.516,-95.214,29
+748,Besnard,F,"Indian Institute of Technology, Madras",Hungarian,40.402,-96.128,33
+749,Lark,F,Central South Forestry University,Khmer,40.724,-92.614,21
+750,Russan,F,Glasgow Caledonian University,Italian,43.34,-95.389,23
+751,Lawson,F,Atlanta College of Art,Estonian,43.569,-94.068,22
+752,Langelay,M,Universitas Sumatera Utara,Korean,40.291,-90.625,35
+753,Mossman,F,Chukyo University,Kashmiri,40.154,-91.658,19
+754,Jagiello,M,National University of Singapore,Polish,41.63,-96.747,34
+755,Bernasek,M,Technische Universität Hamburg-Harburg,Yiddish,42.4,-90.903,34
+756,Serjent,F,Acharya Ranga Agricultural University,Hebrew,41.647,-92.147,32
+757,Fernanando,M,Bethune-Cookman College,Swati,43.998,-94.438,28
+758,Herrero,F,College of the Ozarks,Marathi,40.616,-94.683,34
+759,Doggerell,M,San Francisco State University,Swedish,42.821,-91.815,26
+760,Sarginson,M,Asia University,Polish,42.594,-94.882,19
+761,Hymus,F,University of Teramo,Somali,42.66,-94.828,23
+762,Corrington,M,School of Management,Malayalam,40.582,-91.412,34
+763,Fernan,M,Ecole des Hautes Etudes Industrielles de Lille,Fijian,41.605,-94.358,34
+764,Sempill,F,Dr. B.R. Ambedkar Open University,French,42.007,-90.142,23
+765,Jeffcock,F,Armenian State Agrarian University,Lithuanian,41.652,-94.126,28
+766,Stife,F,State University of New York College at Fredonia,Hindi,41.041,-93.216,29
+767,Jennery,F,Nizam's Institute of Medical Sciences,Danish,40.983,-94.524,20
+768,Milmoe,F,Universidad de Tarapacá,Marathi,41.809,-92.166,28
+769,Munby,M,University of Hawaii - Hilo,English,41.819,-93.262,23
+770,Ferriby,F,Jewish University in Moscow,Azeri,41.218,-95.504,28
+771,Gostling,M,University of Rijeka,Bosnian,43.53,-91.09,21
+772,Traves,F,Kyrgyz State Technical University,Arabic,40.701,-92.302,19
+773,Lyster,F,St. Petersburg StateMechnikov  Medical Academy,Lithuanian,43.779,-96.646,21
+774,Ferreira,M,Princeton University,New Zealand Sign Language,43.341,-91.959,30
+775,Jeschner,M,Obafemi Awolowo University Ile-Ife,Maltese,40.198,-96.956,20
+776,Kobiela,M,Universidade de Brasília,Gujarati,42.019,-90.398,18
+777,Cuskery,F,Hawler Medical University,Nepali,40.422,-90.102,23
+778,Greed,M,Universitas Palangka Raya,Dhivehi,43.556,-95.726,18
+779,Baseley,F,"Ecole Nationale Supérieure en Electrotechnique, Electronique, Informatique et Hydraulique de Toulouse",English,41.868,-96.99,28
+780,Bichener,M,Ganja State University ,Estonian,42.413,-92.936,32
+781,Walshe,M,Russian Academy of Arts,Ndebele,40.176,-92.254,21
+782,Saurin,F,Kent State University - Stark,Punjabi,43.137,-93.614,28
+783,Boxall,M,Kumaun University,Indonesian,43.46,-92.13,35
+784,Glamart,M,Menoufia University,Swedish,40.471,-92.227,19
+785,Huggon,M,Toho Gakuen School of Music,Malagasy,41.664,-90.362,34
+786,Cure,M,Technische Universität Carolo-Wilhelmina Braunschweig,Gujarati,40.821,-94.744,31
+787,Romer,M,Masinde Muliro University of Science and Technology,Tetum,43.795,-93.941,22
+788,Southerill,M,St. Matthews University,Tsonga,42.179,-92.869,28
+789,Yggo,F,Augustana University College,Tswana,42.346,-94.896,22
+790,Phipson,M,Ringling College of Art and Design,Haitian Creole,42.079,-94.514,24
+791,Trewhella,F,"Ecole Européenne de Chimie, Polymères et Matériaux de Strasbourg",Danish,43.786,-95.573,20
+792,Worters,F,Nanjing Union Theological Seminary,French,40.134,-94.329,31
+793,Laurisch,M,Georgia Baptist College of Nursing,Papiamento,41.841,-93.577,26
+794,Camp,F,Université de Bandundu Ville,Azeri,43.604,-90.87,21
+795,Jemison,M,"City University of New York, Hunter College",Spanish,42.388,-96.862,35
+796,Micallef,M,Franklin College Switzerland,Maltese,41.519,-90.365,29
+797,Babb,F,Universidade Nova de Lisboa,Lithuanian,40.733,-92.805,34
+798,Trippick,M,Kannada University,Latvian,40.473,-91.874,22
+799,Findlow,F,Pedagogical University of Czestochowa,Assamese,43.348,-96.208,18
+800,Surman,M,Deylaman Institute of Higher Education,Tetum,42.744,-96.605,34
+801,Chislett,F,"Islamic Azad University, Arak",Estonian,41.087,-94.918,29
+802,Geering,F,Ferrum College,Swati,42.973,-92.687,26
+803,Kubecka,M,Guangdong Radio & TV University,Tamil,40.779,-93.37,27
+804,Lease,M,ITT Technical Institute Portland,Persian,42.231,-91.647,33
+805,Trewett,M,Miyagi University,Tetum,40.764,-95.421,26
+806,Enric,M,Kashan University of Medical Sciences,Tamil,42.208,-92.977,26
+807,Tidman,F,Tikrit University,Māori,42.007,-95.21,35
+808,Maggs,M,Université M'hamed Bouguerra de Boumerdes,Dhivehi,40.861,-91.903,31
+809,Salthouse,M,Albany College of Pharmacy,Norwegian,43.22,-93.713,31
+810,Hillum,M,James Cook University of North Queensland,Georgian,40.886,-93.404,30
+811,Hyatt,F,Tri-State University,Kyrgyz,42.722,-93.166,25
+812,Soutter,M,Kangnung National University,Norwegian,40.329,-90.192,31
+813,Dudbridge,M,Hochschule Mittweida (FH),Burmese,42.539,-96.151,20
+814,Bevir,F,United States International University,Ndebele,43.55,-91.481,25
+815,Hacquard,F,University of Foggia,English,40.749,-91.225,19
+816,MacVanamy,F,University of Advancing Technology (UAT),Thai,40.408,-96.344,32
+817,Canet,F,Universidad Católica Cardenal Raúl Silva Henríquez,Polish,43.04,-93.675,19
+818,Downse,M,Universität Paderborn,Kurdish,40.127,-91.111,29
+819,Morrallee,M,Nagoya Women's University,Icelandic,43.867,-93.785,34
+820,Squirrel,F,Sugiyama Jogakuen University,Tamil,40.331,-92.565,21
+821,Russi,F,International Kazakh-Turkish University,Bulgarian,41.093,-90.51,31
+822,Troke,M,Ecole Supérieure de Commerce de Bordeaux,Marathi,43.603,-94.947,30
+823,Summerell,F,University of Western Macedonia,Norwegian,40.724,-95.039,34
+824,Mathiasen,F,Northeastern Illinois University,Bengali,43.472,-91.096,31
+825,Menichi,M,"Swiss Federal Institute of Technology, Lausanne",Lithuanian,41.453,-93.191,31
+826,Lerwell,M,Shandong University of Triaditional Chinese Medicine,Mongolian,43.348,-94.25,21
+827,Pattlel,F,Kyungnam University,Malay,41.619,-90.28,24
+828,Camp,F,Capital University,Marathi,41.316,-93.033,32
+829,Senecaut,M,Universitas Pasundan,Korean,41.433,-90.757,24
+830,Roslen,F,Help University College,Dutch,43.347,-96.69,25
+831,Martinolli,F,National Academy of Fine Arts,Finnish,43.174,-95.887,31
+832,Deakins,F,Technological Education Institute of Mesologgi,Tswana,41.754,-91.101,18
+833,Alsina,F,Jamia Hamdard University,Bengali,42.011,-91.248,35
+834,Crutchley,M,Aalborg University,Papiamento,43.645,-96.424,18
+835,Durrand,M,Universidade do Oeste de Santa Catarina,Quechua,40.506,-91.321,20
+836,Brolechan,F,Lakeland College,Zulu,42.268,-95.721,19
+837,Machen,M,World Maritime University,Guaraní,42.5,-93.322,27
+838,Rraundl,F,Pan African Christian University College,Hindi,42.447,-92.218,22
+839,Davio,F,"Universidad de Puerto Rico, Aguadilla",Pashto,42.754,-91.976,27
+840,Elward,M,Patuakhali Science and Technology University,Tswana,43.028,-93.678,24
+841,Calltone,M,Novena University,French,42.101,-93.609,26
+842,M'Quharge,M,Madenat Alelem University College,Dutch,40.966,-94.725,35
+843,Gronav,F,University of Perugia,Dutch,40.353,-94.181,18
+844,Jerrems,F,Coleman College,Burmese,42.924,-96.886,32
+845,Mildmott,F,Universidad de Guanajuato,English,40.75,-92.016,34
+846,Mullett,M,Kobe City University of ForeignStudies,Dzongkha,40.357,-94.952,32
+847,Ivanin,F,American University in Bulgaria,Thai,43.315,-91.983,28
+848,Jenicek,M,Université de Lomé,Czech,41.269,-96.612,25
+849,Ivanaev,M,Universidad Nacional del Callao,New Zealand Sign Language,42.033,-90.421,33
+850,Nan Carrow,F,Australian Catholic University,Punjabi,43.664,-93.539,33
+851,Emblen,M,Yonsei University,Gujarati,43.595,-93.261,20
+852,Fairchild,F,Cedar Crest College,Irish Gaelic,43.538,-91.418,28
+853,Swinford,M,University Medical School of Debrecen,Malay,42.635,-93.003,34
+854,Aylmer,M,University of Arkansas for Medical Sciences,Belarusian,43.307,-90.807,30
+855,Greggs,F,Institut Catholique d'Arts et Métiers Nantes,Hiri Motu,41.946,-95.252,32
+856,MacFie,F,Fachhochschule Weihenstephan,Montenegrin,43.962,-93.581,34
+857,Coping,M,Pyongyang University of Science and Technology,Bengali,43.344,-93.906,26
+858,Cassley,F,Universität Leipzig,West Frisian,42.156,-94.191,35
+859,Crichten,M,Universidad de Holguín,Romanian,41.555,-96.463,19
+860,Muschette,M,Johnson & Wales University,Latvian,43.708,-91.048,21
+861,Paulat,M,Universitas Gunadarma,Kurdish,43.553,-95.11,18
+862,Coulling,M,National University of Ostroh Academy,Maltese,41.226,-96.579,29
+863,Brodway,F,Universidad del Bío-Bío,Croatian,41.705,-93.128,25
+864,Hek,F,Akademia Podlaska,Japanese,40.296,-91.74,24
+865,Easun,M,Jubail Industrial College,Malayalam,41.58,-94.899,18
+866,Zavattiero,M,Southeastern Bible College,Mongolian,41.061,-90.977,20
+867,Tidder,F,Central Bible College,Japanese,42.951,-96.396,31
+868,Conichie,M,Mount St. Mary's College Maryland,Dzongkha,42.009,-95.427,28
+869,Le Breton,F,Belarussian State Agricultural Academy,Aymara,42.571,-90.774,20
+870,Dietmar,F,Carnegie Mellon University,Tamil,41.41,-93.488,25
+871,Attrey,M,Ecole Nationale de la Météorologie,Finnish,42.273,-95.8,35
+872,Dumbare,M,John Marshall Law School,Gagauz,43.839,-93.855,33
+873,Raoux,M,Aalborg University,Bengali,41.935,-94.816,29
+874,Nurse,M,Mills Grae University,Thai,42.453,-95.519,27
+875,Balstone,M,Tunghai University,Luxembourgish,42.482,-94.9,22
+876,Lachaize,F,Université de Reims Champagne-Ardenne,Korean,40.717,-96.289,27
+877,Lanbertoni,F,Whitman College,Thai,40.768,-92.442,25
+878,Galbraith,F,Eötvös Lorand University,Filipino,40.134,-91.85,20
+879,Meddings,F,Kyoto City University of Arts,Korean,41.775,-93.655,35
+880,McKune,M,Sree Rama Krishna Degree College,Belarusian,43.956,-92.117,19
+881,Ibberson,F,"Universidad de Puerto Rico, Aguadilla",Swahili,42.234,-95.608,20
+882,Ealles,M,Blackburn College,Polish,40.876,-91.894,26
+883,Praundlin,M,Instituto Politécnico Nacional,Maltese,41.637,-90.065,31
+884,Spurriar,F,Sugiyama Jogakuen University,Hebrew,43.79,-92.682,20
+885,Sparrow,M,"Institute of Architecture ""Ion Mincu"" Bucharest",Swati,42.974,-92.261,19
+886,Rosenfield,M,Xi'an University of Electronic Science and Technology,Georgian,43.402,-96.471,23
+887,Sturman,M,Yaroslavl State University,French,43.23,-95.194,20
+888,Sealy,F,Nelson Mandela Metropolitan University,Mongolian,42.33,-90.474,20
+889,Deekes,M,Talladega College,Kazakh,43.23,-94.527,33
+890,Boyson,M,Agricultural University of Cracow,Croatian,40.207,-96.179,20
+891,Tooley,M,Universidad Metropolitana Latin Campus,Yiddish,40.961,-95.755,24
+892,Boome,F,Kiev National Economic University Named after Vadym Hetman,Malayalam,40.506,-96.204,23
+893,Covill,F,Bridgewater College,Moldovan,42.182,-95.849,24
+894,Vardon,F,Keller Graduate School of Management,Kurdish,42.999,-93.58,18
+895,Rillett,F,Islamic University of Medinah,Papiamento,42.372,-92.009,30
+896,Fruen,M,University of Hargeisa,Dutch,40.121,-92.451,22
+897,Fearn,F,Fachhochschulstudiengänge Krems IMC,Arabic,43.363,-90.932,19
+898,Hassall,M,Cogswell Polytechnical College,Tsonga,40.789,-91.018,25
+899,Doak,F,Xijiang University,Georgian,43.96,-93.883,35
+900,Coveney,M,University of Delhi,Albanian,40.765,-93.555,19
+901,Keuning,M,Universidad Tecnológica Oteima,Yiddish,42.135,-96.979,29
+902,Lutz,M,Kyoto Sangyo University,Papiamento,43.369,-95.853,18
+903,Hadcroft,F,State University of New York College of Agriculture and Technology at Cobleskill,Hindi,41.526,-93.621,20
+904,Matus,M,National Hsin-Chu Teachers College,Thai,42.797,-96.639,27
+905,Wernham,F,Universität Leipzig,Yiddish,43.807,-95.81,29
+906,Voase,M,Vilnius University,Pashto,41.801,-93.692,27
+907,Purvis,M,Xavier University,Finnish,41.661,-94.08,21
+908,Blinco,F,Universidad Nacional de La Plata,Telugu,43.917,-93.118,31
+909,Beggin,F,Georg-Simon-Ohm-Fachhochschule Nürnberg,Arabic,40.695,-94.956,29
+910,Eckford,M,University of Indianapolis in Athens,Māori,43.938,-96.677,18
+911,Iacobo,M,University of New York Tirana,Lao,43.546,-90.483,35
+912,Malloy,F,Tokyo University of Agriculture,Icelandic,41.12,-90.969,20
+913,Chirm,F,Nanjing Agricultural University,Hindi,41.165,-94.558,24
+914,Futcher,M,Technical University of Crete,Kyrgyz,42.376,-95.13,21
+915,Spillane,M,Ibaraki Christian College,Māori,41.323,-92.689,32
+916,McCalum,F,Kanpur University,New Zealand Sign Language,41.024,-96.003,19
+917,Twentyman,M,Umm Al-Qura University,Kyrgyz,41.432,-90.556,27
+918,Joscelin,M,George Washington University,Korean,40.278,-93.278,24
+919,Arias,F,Southern Alberta Institute of Technology,Lao,43.02,-91.948,31
+920,Mabon,F,Madurai Kamaraj University,Hindi,41.577,-96.776,33
+921,Ramos,F,Universidade Independente de Angola,French,41.136,-93.109,25
+922,Reditt,M,Champlain College,Māori,40.146,-92.779,28
+923,Cawson,F,University of Faisalabad,Kazakh,40.424,-91.696,20
+924,Sheach,M,Senzoku Gakuen College,Moldovan,40.069,-94.755,20
+925,Lehrmann,F,University of Surrey,New Zealand Sign Language,40.124,-95.739,27
+926,Wolfe,M,Southern California College,Ndebele,43.956,-92.623,24
+927,Clavey,M,Falmouth University,Punjabi,40.805,-91.231,34
+928,Petzolt,F,Faculdades Integradas Curitiba,Somali,43.827,-93.052,25
+929,Andrichak,F,Universidad de la Marina Mercante,West Frisian,43.041,-90.249,34
+930,Fost,F,Universidad Nacional Hermilio Valdizan,West Frisian,42.472,-90.964,29
+931,Burgiss,F,Universitas Udayana,Gagauz,42.163,-93.077,24
+932,Dallimare,M,City University of Hong Kong,Macedonian,43.668,-93.085,35
+933,Olivas,M,Dominican College,Ndebele,40.857,-95.298,21
+934,Burgane,F,"Fachhochschule Furtwangen, Hochschule für Technik und Wirtschaft",Kannada,43.515,-90.959,34
+935,Woodson,F,"Northwood University, Texas Campus",Dari,40.1,-94.536,29
+936,Onn,F,Pontificia Università Lateranense,Hindi,40.3,-96.482,26
+937,Bransom,M,Universidad Complutense de Madrid,Afrikaans,42.069,-90.508,21
+938,Vicker,M,Fachhochschule Nordostniedersachsen,Estonian,40.802,-96.373,27
+939,Gadie,M,Virginia Intermont College,Albanian,42.654,-95.931,35
+940,Pinckney,M,University of Kelaniya,Tetum,42.18,-92.904,35
+941,Howling,F,Bowen University,Lithuanian,42.087,-91.839,19
+942,Emanson,F,St. John's University,Guaraní,41.181,-94.598,25
+943,Siward,F,Madenat Alelem University College,Swedish,42.022,-90.72,35
+944,Richold,F,New York School of Interior Design,Kashmiri,41.375,-95.425,31
+945,Rilston,F,Jai Prakash University,Azeri,43.497,-95.565,18
+946,Faley,F,Thainguyen University of Agriculture and Forestry,Mongolian,40.044,-96.512,33
+947,Benoey,M,University Lucian Blaga of Sibiu,Somali,41.67,-95.249,35
+948,Hart,M,Belarussian State Academy of Music,Kannada,42.892,-96.077,19
+949,McPhate,F,Mount St. Mary's College California,Bulgarian,40.106,-94.59,28
+950,Olczak,M,Mahanakorn University of Technology,Catalan,40.612,-93.633,21
+951,Tuxell,M,"Islamic Azad University, Tehran Science & Research Branch",Macedonian,42.588,-90.978,19
+952,Bairstow,F,Klaipeda University,Malay,43.591,-93.692,34
+953,Jeschner,M,Oberlin College,Papiamento,43.784,-95.492,30
+954,Poytres,M,Nanhua University,Yiddish,41.193,-90.374,26
+955,Stacey,M,University of the Immaculate Conception,Danish,43.457,-91.946,23
+956,Edmunds,M,Moscow State Institute of International Relations MFA Russia (MGIMO-University),English,42.712,-93.984,31
+957,Salamon,F,Nagoya University,Georgian,41.639,-93.943,28
+958,Clohessy,F,University of Northeastern Philippines,Guaraní,40.699,-91.769,33
+959,Kryszkiecicz,M,Ecole Nationale Supérieure d'Ingénieurs de Génie Chimique,Ndebele,40.717,-92.823,24
+960,MacCaull,F,Shih Chien University,Indonesian,43.71,-95.95,20
+961,Bricksey,F,Western Kentucky University,Somali,40.363,-95.873,23
+962,Grunnill,F,Manonmaniam Sundaranar University,Northern Sotho,43.574,-91.677,18
+963,Jenkinson,M,Universidad Nacional de la Patagonia Austral,Quechua,41.412,-90.818,29
+964,Paffot,F,Ferghana Politechnical Institute,Sotho,41.47,-94.241,33
+965,Eyckelberg,M,Ripon College,Armenian,43.999,-91.328,29
+966,Searle,M,Daiichi College of Pharmaceutical Sciences,Mongolian,40.645,-91.7,27
+967,MacScherie,F,Ecole Superieure Robert de Sorbon,Ndebele,42.024,-94.792,19
+968,Kilmurry,M,Shiraz University of Medical Sciences,Spanish,42.247,-93.679,30
+969,Guyer,M,Universidad Politécnica de El Salvador,Northern Sotho,41.336,-91.202,23
+970,Shepherdson,F,Oklahoma State University,Afrikaans,41.696,-96.6,31
+971,Gething,M,Creighton University,Swati,42.064,-91.316,28
+972,Weaver,M,Kushiro Public University of Economics,Azeri,41.574,-95.443,20
+973,Rodolfi,M,Xavier University,Bulgarian,43.845,-93.121,27
+974,Caulder,M,College of Education Ikere,Swati,41.994,-90.247,31
+975,Rutland,F,Sebatian Kolowa University College,Somali,40.344,-92.139,33
+976,Mogenot,F,Universidad Metropolitana Latin Campus,Kannada,42.244,-93.62,20
+977,Danford,M,National University of Kaohsiung,Dzongkha,41.076,-91.957,32
+978,Fedorchenko,F,Moore College of Art and Design,Maltese,41.927,-96.13,24
+979,Tixall,M,DIPLOMA-Fachhochschule Ölsnitz/Vogtland,Bislama,41.145,-94.183,21
+980,Bottini,M,Renaissance University,Swedish,41.514,-92.721,25
+981,Edinburough,F,Kazan State Academy of Architecture and Civil Engineering,Kyrgyz,41.683,-92.013,22
+982,Frammingham,M,Musashi University,Finnish,42.826,-91.623,30
+983,Tacker,M,National Tainan Teachers College,Fijian,40.007,-92.986,28
+984,Jerke,M,Brescia University,Malayalam,40.919,-90.194,30
+985,Imison,F,Universidade Estadual do Maranhão,Malayalam,41.528,-96.032,34
+986,Lightbody,M,Universidad Capitain General Gerardo Barrios,Dutch,41.72,-93.783,18
+987,Neames,M,Salem International University,Oriya,42.27,-93.92,23
+988,Cresser,M,University of Aberdeen,Aymara,40.29,-94.986,28
+989,Gino,F,Université Montesquieu (Bordeaux IV),Somali,42.369,-94.036,33
+990,Tonbridge,M,Royal Danish School of Educational Sciences,Tetum,40.522,-92.099,26
+991,Eltringham,M,University of Aizu,Kurdish,40.851,-94.924,31
+992,Archer,M,Bow Valley College,Mongolian,43.984,-94.464,22
+993,Eddy,F,Gratz College,Malagasy,42.987,-95.085,22
+994,Lathee,F,Ghazni University,Montenegrin,42.403,-96.834,20
+995,Slater,F,"Indian Institute of Technology, Delhi",Kazakh,40.672,-94.582,25
+996,Fancet,M,Nanjing Union Theological Seminary,Bislama,41.295,-91.024,23
+997,Males,M,Universidad de Sonsonate,Latvian,43.703,-91.467,24
+998,Gatus,F,Rezekne Higher School,Māori,43.98,-95.151,30
+999,Henner,F,Allahabad University,Kurdish,41.189,-96.243,19
+1000,Oglesbee,F,Sir Syed University of Engineering and Technology,Hiri Motu,43.741,-95.124,18

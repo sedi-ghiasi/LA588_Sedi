@@ -9,6 +9,6 @@ This is my first assignment
 - [Assignment1](https://sedi-ghiasi.github.io/LA588_Sedi/assignment1/assign3a_osm.html)
 - [Assignment2](Assignment2/assign2.md)
 - [Assignment3](Assignment3/assign3.md)
-- [Assignment4](Assignment4/myFram_osm.html){:target="_blank"}
+-<a href="./Assignment4/myFram_osm.html" target="_blank">Assignment4</a>
 
 - 

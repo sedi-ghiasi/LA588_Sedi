@@ -9,8 +9,4 @@ This is my first assignment
 - [Assignment1](https://sedi-ghiasi.github.io/LA588_Sedi/assignment1/assign3a_osm.html)
 - [Assignment2](Assignment2/assign2.md)
 - [Assignment3](Assignment3/assign3.md)
-  -<a href="./Assignment4/myFram_osm.html" target="_blank">Assignment4</a>
-
-- [Link text](https://raw.githubusercontent.com/sedi-ghiasi/LA588_Sedi/main/Assignment4/myFram_osm.html]){:target="_blank"}
-- https://raw.githubusercontent.com/sedi-ghiasi/LA588_Sedi/main/Assignment4/myFram_osm.html
-[Link text](https://raw.githubusercontent.com/sedi-ghiasi/LA588_Sedi/main/Assignment4/myFram_osm.html){:target="_blank"}
+  [Assignment4](Assignment4/myFram_osm)

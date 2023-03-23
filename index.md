@@ -11,4 +11,4 @@ This is my first assignment
 - [Assignment3](Assignment3/assign3.md)
   -<a href="./Assignment4/myFram_osm.html" target="_blank">Assignment4</a>
 
-- [Link text]([URL](https://raw.githubusercontent.com/sedi-ghiasi/LA588_Sedi/main/Assignment4/myFram_osm.html)){:target="_blank"}
+- [Link text](https://raw.githubusercontent.com/sedi-ghiasi/LA588_Sedi/main/Assignment4/myFram_osm.html){:target="_blank"}

@@ -10,4 +10,4 @@ This is my first assignment
 - [Assignment2](Assignment2/assign2.md)
 - [Assignment3](Assignment3/assign3.md)
 - [Assignment4](https://sedi-ghiasi.github.io/LA588_Sedi/Assignment4/myFram_osm.html)
-- [Proposal](LA588_Sedi/projctproposal)
+- [Proposal](projctproposal/proposal.md)

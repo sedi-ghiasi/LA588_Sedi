@@ -9,23 +9,23 @@ Des Moines, Iowa is a growing city with a diverse range of neighborhoods, each w
 ## __Objectives:__
 The main objectives of this project are:
 -To evaluate and compare the microclimates in each neighborhood of Des Moines, Iowa.
-- To present the results in a visually appealing and easy-to-understand format.
+-To present the results in a visually appealing and easy-to-understand format.
 -To provide insights into the factors that influence microclimates in different areas of the city.
 
 ## __Methodology:__
 To achieve our objectives, we will follow these steps:
 
-_ Collecting trees and building data for each neighborhood using remote sensing techniques.
-_ Analyzing the data to identify variations in microclimates between neighborhoods.
-_ Creating visualizations to present the results.
+-Collecting trees and building data for each neighborhood using remote sensing techniques.
+-Analyzing the data to identify variations in microclimates between neighborhoods.
+-Creating visualizations to present the results.
 ## __Deliverables:__
 
 Our project will include the following deliverables:
-_ A project introduction in Markdown format.
-_ A slippy map showing the study area with a marker on the study area.
-_ A graph showing how much the neighborhoods differ based on density and greening ratio.
-_ A choropleth map illustrating the density of each neighborhood in the city.
-_ Adding a popup to the map, which shows each neighborhood's identity.
+-A project introduction in Markdown format.
+-A slippy map showing the study area with a marker on the study area.
+-A graph showing how much the neighborhoods differ based on density and greening ratio.
+-A choropleth map illustrating the density of each neighborhood in the city.
+-Adding a popup to the map, which shows each neighborhood's identity.
 
 ## __Deliverables:__
 Our project will include the following deliverables:

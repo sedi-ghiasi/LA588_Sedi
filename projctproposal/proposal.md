@@ -8,9 +8,9 @@ Des Moines, Iowa is a growing city with a diverse range of neighborhoods, each w
 
 ## __Objectives:__
 The main objectives of this project are:
-_ To evaluate and compare the microclimates in each neighborhood of Des Moines, Iowa.
-_ To present the results in a visually appealing and easy-to-understand format.
-_ To provide insights into the factors that influence microclimates in different areas of the city.
+-To evaluate and compare the microclimates in each neighborhood of Des Moines, Iowa.
+- To present the results in a visually appealing and easy-to-understand format.
+-To provide insights into the factors that influence microclimates in different areas of the city.
 
 ## __Methodology:__
 To achieve our objectives, we will follow these steps:

@@ -8,30 +8,30 @@ Des Moines, Iowa is a growing city with a diverse range of neighborhoods, each w
 
 ## __Objectives:__
 The main objectives of this project are:
-	_To evaluate and compare the microclimates in each neighborhood of Des Moines, Iowa.
-	_To present the results in a visually appealing and easy-to-understand format.
-	_To provide insights into the factors that influence microclimates in different areas of the city.
+_To evaluate and compare the microclimates in each neighborhood of Des Moines, Iowa.
+_To present the results in a visually appealing and easy-to-understand format.
+_To provide insights into the factors that influence microclimates in different areas of the city.
 
-## __Methodology:____
+## __Methodology:__
 To achieve our objectives, we will follow these steps:
 
-	_Collecting trees and building data for each neighborhood using remote sensing techniques.
-	_Analyzing the data to identify variations in microclimates between neighborhoods.
-	_Creating visualizations to present the results.
-## __Deliverables:____
+_Collecting trees and building data for each neighborhood using remote sensing techniques.
+_Analyzing the data to identify variations in microclimates between neighborhoods.
+_Creating visualizations to present the results.
+## __Deliverables:__
 
 Our project will include the following deliverables:
-	_A project introduction in Markdown format.
-	_A slippy map showing the study area with a marker on the study area.
-	_A graph showing how much the neighborhoods differ based on density and greening ratio.
-	_A choropleth map illustrating the density of each neighborhood in the city.
-	_Adding a popup to the map, which shows each neighborhood's identity.
+_A project introduction in Markdown format.
+_A slippy map showing the study area with a marker on the study area.
+_A graph showing how much the neighborhoods differ based on density and greening ratio.
+_A choropleth map illustrating the density of each neighborhood in the city.
+_Adding a popup to the map, which shows each neighborhood's identity.
 
-## __Deliverables:____
+## __Deliverables:__
 Our project will include the following deliverables:
-	_A project introduction in Markdown format.
-	_A slippy map showing the study area with a marker on the study area.
-	_A graph showing how much the neighborhoods differ based on density and greening ratio.
-	_A choropleth map illustrating the density of each neighborhood in the city.
-	_Adding a popup to the map, which shows each neighborhood's identity.
+_A project introduction in Markdown format.
+_A slippy map showing the study area with a marker on the study area.
+_A graph showing how much the neighborhoods differ based on density and greening ratio.
+_A choropleth map illustrating the density of each neighborhood in the city.
+_Adding a popup to the map, which shows each neighborhood's identity.
 

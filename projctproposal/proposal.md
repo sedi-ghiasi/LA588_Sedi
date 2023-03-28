@@ -1,7 +1,8 @@
 <p align="center">
   <img src=desmoines.jpeg alt="desmoines">
-credit by: https://www.pngkey.com/
+
 </p>
+credit by: https://www.pngkey.com/
 
 # __Proposal: Microclimate Analysis in Des Moines, Iowa__
 

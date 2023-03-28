@@ -1,7 +1,7 @@
 <p align="center">
-![desmoines](desmoines.jpeg)
+  ![desmoines](desmoines.jpeg)
 </p>
-
+![desmoines](desmoines.jpeg)
 # __Proposal: Microclimate Analysis in Des Moines, Iowa__
 
 ##__Introduction:__

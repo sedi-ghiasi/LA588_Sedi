@@ -1,6 +1,6 @@
 
 
-![desmoines](LA588_Sedi/projctproposal/desmoines.jpeg)
+![desmoines](desmoines.jpeg)
 # __Proposal: Microclimate Analysis in Des Moines, Iowa__
 
 ##__Introduction:__

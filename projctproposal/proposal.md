@@ -1,6 +1,6 @@
 
 
-![plot4](plot4.jpeg)
+![desmoines](desmoines.jpeg)
 # __Proposal: Microclimate Analysis in Des Moines, Iowa__
 
 ##__Introduction:__

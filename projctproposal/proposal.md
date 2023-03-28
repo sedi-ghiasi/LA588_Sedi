@@ -1,7 +1,7 @@
 <p align="center">
-  This text will be centered.
-</p>
 ![desmoines](desmoines.jpeg)
+</p>
+
 # __Proposal: Microclimate Analysis in Des Moines, Iowa__
 
 ##__Introduction:__

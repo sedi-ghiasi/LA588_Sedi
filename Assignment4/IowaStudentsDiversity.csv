@@ -330,7 +330,7 @@ id,last_name,gender,university name,country,latitude,longitude,age
 329,Getcliff,F,"Institute of Teachers Education, Darul Aman",Catalan,42.427,-91.472,23
 330,McCandie,M,Knowledge International University,Bislama,40.656,-90.462,19
 331,Cornill,F,Himachal Pradesh University,Albanian,42.582,-92.909,35
-332,Jickells,M,Champlain College,Italian,42.0,-92.015,18
+332,Jickells,M,Champlain College,Italian,42,-92.015,18
 333,Ree,F,Middlebury College,Dari,41.258,-95.53,30
 334,Janeway,M,"Institute of Education, University of London",Croatian,43.985,-96.258,20
 335,Geering,F,National University of Modern Languages,Tamil,40.937,-91.788,23
@@ -422,7 +422,7 @@ id,last_name,gender,university name,country,latitude,longitude,age
 421,Skea,M,University of Twente,Dhivehi,42.78,-90.726,18
 422,Vant,M,University of Sudbury,Haitian Creole,40.328,-92.494,35
 423,Elms,F,South China Agricultural University,Bosnian,40.788,-90.536,27
-424,Leachman,M,University of Sydney,Dutch,40.142,-93.0,19
+424,Leachman,M,University of Sydney,Dutch,40.142,-93,19
 425,Grace,M,Oakland City University,Khmer,42.559,-91.193,30
 426,Stidworthy,F,Martin Methodist College,Amharic,43.715,-93.783,19
 427,Esbrook,M,Columbia College Chicago,Khmer,40.157,-93.906,32

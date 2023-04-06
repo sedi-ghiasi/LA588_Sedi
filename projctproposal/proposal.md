@@ -24,11 +24,11 @@ To achieve the objectives, I will follow these steps:
 ## __Deliverables:__
 
 This project will include the following deliverables:
--A project introduction in Markdown format.
--A slippy map showing the study area with a marker on the study area.
--A graph showing how much the neighborhoods differ based on density and greening ratio.
--A choropleth map illustrating the density of each neighborhood in the city.
--Adding a popup to the map, which shows each neighborhood's identity.
+- A project introduction in Markdown format.
+- A slippy map showing the study area with a marker on the study area.
+- A graph showing how much the neighborhoods differ based on density and greening ratio.
+- A choropleth map illustrating the density of each neighborhood in the city.
+- Adding a popup to the map, which shows each neighborhood's identity.
 
 
 

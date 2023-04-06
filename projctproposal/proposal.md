@@ -6,7 +6,7 @@ credit by: https://www.pngkey.com/
 
 # __Proposal: Microclimate Analysis in Des Moines, Iowa__
 
-##__Introduction:__
+## __Introduction:__
 Des Moines, Iowa is a growing city with a diverse range of neighborhoods, each with its unique characteristics. One area of interest is the microclimates in each neighborhood and how they differ from each other. Understanding the differences between microclimates can be valuable for urban planning, environmental management, and public health. The proposed project aims to evaluate and compare the microclimates in Des Moines neighborhoods and presents the results through a series of visualizations.
 
 ## __Objectives:__

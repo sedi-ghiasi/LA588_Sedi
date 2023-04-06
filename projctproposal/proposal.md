@@ -29,6 +29,7 @@ This project will include the following deliverables:
 - A graph showing how much the neighborhoods differ based on density and greening ratio.
 - A choropleth map illustrating the density of each neighborhood in the city.
 - Adding a popup to the map, which shows each neighborhood's identity.
+- An interactive map showes the mcroclimate category of each neighbeorhood- I will use Arc GIS pro for this map.
 
 
 

@@ -6,7 +6,7 @@ credit by: https://www.pngkey.com/
 
 # __Proposal: Microclimate Analysis in Des Moines, Iowa__
 
-##__Introduction:__
+## __Introduction:__
 Des Moines, Iowa is a growing city with a diverse range of neighborhoods, each with its unique characteristics. One area of interest is the microclimates in each neighborhood and how they differ from each other. Understanding the differences between microclimates can be valuable for urban planning, environmental management, and public health. The proposed project aims to evaluate and compare the microclimates in Des Moines neighborhoods and presents the results through a series of visualizations.
 
 ## __Objectives:__
@@ -23,29 +23,15 @@ To achieve the objectives, I will follow these steps:
 - Creating visualizations to present the results.
 ## __Deliverables:__
 
-<<<<<<< HEAD
 This project will include the following deliverables:
--A project introduction in Markdown format.
--A slippy map showing the study area with a marker on the study area.
--A graph showing how much the neighborhoods differ based on density and greening ratio.
--A choropleth map illustrating the density of each neighborhood in the city.
--Adding a popup to the map, which shows each neighborhood's identity.
-
-
-=======
-Our project will include the following deliverables:
 - A project introduction in Markdown format.
 - A slippy map showing the study area with a marker on the study area.
 - A graph showing how much the neighborhoods differ based on density and greening ratio.
 - A choropleth map illustrating the density of each neighborhood in the city.
 - Adding a popup to the map, which shows each neighborhood's identity.
+- An interactive map showes the mcroclimate category of each neighbeorhood- I will use Arc GIS pro for this map.
 
-## __Deliverables:__
-Our project will include the following deliverables:
-- A project introduction in Markdown format.
-- A slippy map showing the study area with a marker on the study area.
-- A graph showing how much the neighborhoods differ based on density and greening ratio.
-- A choropleth map illustrating the density of each neighborhood in the city.
-- Adding a popup to the map, which shows each neighborhood's identity.
->>>>>>> 0ed755a1d4cbe01f45437aa5a8f30a990fa9825d
+
+
+
 

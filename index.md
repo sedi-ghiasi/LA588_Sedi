@@ -11,4 +11,5 @@ This is my first assignment
 - [Assignment3](Assignment3/assign3.md)
 - [Assignment4](https://sedi-ghiasi.github.io/LA588_Sedi/Assignment4/myFram_osm.html)
 - [Assignment6](https://sedi-ghiasi.github.io/LA588_Sedi/Assignment6/Assignm6.html)
+- [Assignment7](https://sedi-ghiasi.github.io/LA588_Sedi/Assignment7/Assignm7.html)
 - [Proposal](projctproposal/proposal.md)

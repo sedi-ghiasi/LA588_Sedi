@@ -5,7 +5,7 @@ This project examines the microclimate variability of Des Moines, Iowa, with a f
 
 ## __Assignments:__
 - [proposal](/proposal.md)
-- [presentation](finalproject/LA588-Sedi.pptx)
-- [tabelue](finalproject/Finalproject-slideone.twb)
-- [R](finalproject/studyarea.R)
+- [presentation](/LA588-Sedi.pptx)
+- [tabelue](/Finalproject-slideone.twb)
+- [R](/studyarea.R)
 

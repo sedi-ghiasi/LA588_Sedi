@@ -5,7 +5,8 @@ Microclimate Analysis in Des Moines, Iowa. This project examines the microclimat
 ## Assignments:
 
 - [Proposal](/proposal.md)
-- [(/LA588-Sedi.pptx)]([<iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="Screen Recording 2023-05-08 at 6.14.41 AM" src="https://iowastate.instructuremedia.com/embed/e0de399f-3086-4c1e-860f-bf792f47af67" frameborder="0"></iframe>](https://iowastate.instructuremedia.com/embed/e0de399f-3086-4c1e-860f-bf792f47af67))
+- [Presentation](https://iowastate.instructuremedia.com/embed/e0de399f-3086-4c1e-860f-bf792f47af67)
 - [Project File - Tableau](https://github.com/sedi-ghiasi/LA588_Sedi/blob/main/finalproject/Finalproject-slideone.twb)
-- ([/studyarea.R](https://github.com/sedi-ghiasi/LA588_Sedi/blob/main/finalproject/studyarea.R)
+- [Project File - R](https://github.com/sedi-ghiasi/LA588_Sedi/blob/main/finalproject/studyarea.R)
+
 

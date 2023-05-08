@@ -10,7 +10,7 @@ This is my first assignment
 - [Assignment2](Assignment2/assign2.md)
 - [Assignment3](Assignment3/assign3.md)
 - [Assignment4](https://sedi-ghiasi.github.io/LA588_Sedi/Assignment4/myFram_osm.html)
-- [Assignment6](Assignment6/Assignment6.html)
+- [Assignment6](https://github.com/sedi-ghiasi/LA588_Sedi/tree/main/Assignment6)
 - [Assignment7](https://sedi-ghiasi.github.io/LA588_Sedi/Assignment7/Assignm7.html)
 - [Proposal](projctproposal/proposal.md)
 - [FinalProject](https://sedi-ghiasi.github.io/LA588_Sedi/finalproject/FinalProject.md)

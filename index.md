@@ -13,4 +13,4 @@ This is my first assignment
 - [Assignment6](https://sedi-ghiasi.github.io/LA588_Sedi/Assignment6/Assignm6.html)
 - [Assignment7](https://sedi-ghiasi.github.io/LA588_Sedi/Assignment7/Assignm7.html)
 - [Proposal](projctproposal/proposal.md)
-- [FinalProject](https://sedi-ghiasi.github.io/LA588_Sedi/finalproject/FinalProject.html)
+- [FinalProject](https://sedi-ghiasi.github.io/LA588_Sedi/finalproject/FinalProject.md)
